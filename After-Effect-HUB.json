@@ -4,8 +4,8 @@
     "name": "AE DeepGlow",
     "version": "1.2",
     "last_updated": "2026-10-26",
-    "link": "https://github.com/your-dedicated-account/eagle-releases/releases/download/deepglow-1.2/DeepGlow-1.2.zip",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Aescripts.Deep.Glow.2.v1.1.1.zip",
+    "sha256": "sha256:5e91f2d5e2df8c9853263c64f41e7b45e563d00241b451d32e3adf4dac2cb1a8",
     "size_bytes": 12345678,
     "description": "High-quality GPU glow plugin for After Effects.",
     "tags": ["glow", "effects", "gpu"]
