@@ -10,19 +10,100 @@
   },
   {
     "category": "plugin",
-    "name": "Auto Fill V2",
-    "version": "2.0",
+    "name": "Auto Fill V",
+    "version": "2",
     "last_updated": "2026-10-26",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/AutoFill2.rar",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/AutoFill2.zip",
     "plugin_type": "aeplugin",
     "description": ""
   },
   {
     "category": "plugin",
     "name": "Irrealix Bundle",
-    "version": "2.0",
+    "version": "2026",
     "last_updated": "2026-10-26",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/irrealix.zip",
+    "plugin_type": "core",
+    "description": ""
+  },
+  {
+    "category": "plugin",
+    "name": "Chromabba",
+    "version": "1.4.3",
+    "last_updated": "2026-10-26",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Chromabba.zip",
+    "plugin_type": "core",
+    "description": ""
+  },
+  {
+    "category": "plugin",
+    "name": "Chromabba",
+    "version": "1.3",
+    "last_updated": "2026-10-26",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/CRTX1.3.zip",
+    "plugin_type": "core",
+    "description": ""
+  },
+  {
+    "category": "plugin",
+    "name": "Fold Craft",
+    "version": "1.0",
+    "last_updated": "2026-10-26",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/FoldCraft.zip",
+    "plugin_type": "core",
+    "description": ""
+  },
+  {
+    "category": "plugin",
+    "name": "GlassWork",
+    "version": "1.2.0",
+    "last_updated": "2026-10-26",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Glasswork.zip",
+    "plugin_type": "core",
+    "description": ""
+  },
+  {
+    "category": "plugin",
+    "name": "LightSweep Pro",
+    "version": "1.0",
+    "last_updated": "2026-10-26",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/InovativeWorks1.0.zip",
+    "plugin_type": "aeplugin",
+    "description": ""
+  },
+  {
+    "category": "plugin",
+    "name": "MB Liquid Glass",
+    "version": "1.0.3",
+    "last_updated": "2026-10-26",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/MBLiquidGlass.zip",
+    "plugin_type": "aeplugin",
+    "description": ""
+  },
+  {
+    "category": "plugin",
+    "name": "PixelSorter",
+    "version": "4.2.3",
+    "last_updated": "2026-10-26",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/PixelSorter4.zip",
+    "plugin_type": "aeplugin",
+    "description": ""
+  },
+  {
+    "category": "plugin",
+    "name": "Signal",
+    "version": "1.2.3",
+    "last_updated": "2026-10-26",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/signal1.2.3.zip",
+    "plugin_type": "core",
+    "description": ""
+  },
+  {
+    "category": "plugin",
+    "name": "Tracery",
+    "version": "1.1",
+    "last_updated": "2026-10-26",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Tracery1.1.zip",
     "plugin_type": "core",
     "description": ""
   },
