@@ -1,1 +1,35 @@
-
+[
+  {
+    "category": "plugin",
+    "name": "AE DeepGlow",
+    "version": "1.2",
+    "last_updated": "2026-10-26",
+    "link": "https://github.com/your-dedicated-account/eagle-releases/releases/download/deepglow-1.2/DeepGlow-1.2.zip",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "size_bytes": 12345678,
+    "description": "High-quality GPU glow plugin for After Effects.",
+    "tags": ["glow", "effects", "gpu"]
+  },
+  {
+    "category": "extension",
+    "name": "Motion Bro Pro",
+    "version": "3.1.0",
+    "last_updated": "2026-10-25",
+    "link": "https://github.com/your-dedicated-account/eagle-releases/releases/download/motionbro-3.1.0/MotionBro-3.1.0.zxp",
+    "sha256": "...",
+    "size_bytes": 45678901,
+    "description": "Animation presets + easing tool.",
+    "tags": ["animation", "presets"]
+  },
+  {
+    "category": "script",
+    "name": "Flow Outline",
+    "version": "2.0.1",
+    "last_updated": "2026-10-24",
+    "link": "https://github.com/your-dedicated-account/eagle-releases/releases/download/flowoutline-2.0.1/FlowOutline-2.0.1.jsx",
+    "sha256": "...",
+    "size_bytes": 234567,
+    "description": "Outliner for AE layers.",
+    "tags": ["layer", "ui"]
+  }
+]
