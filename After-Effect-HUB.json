@@ -100,6 +100,15 @@
   },
   {
     "category": "plugin",
+    "name": "SpeedX",
+    "version": "1.2.2",
+    "last_updated": "2026-10-26",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/SpeedX1.2.2.zip",
+    "plugin_type": "aeplugin",
+    "description": ""
+  },
+  {
+    "category": "plugin",
     "name": "Tracery",
     "version": "1.1",
     "last_updated": "2026-10-26",
@@ -109,11 +118,51 @@
   },
   {
     "category": "extension",
-    "name": "Motion Bro Pro",
-    "version": "3.1.0",
+    "name": "Ae Script Flow",
+    "version": "1.5.3",
     "last_updated": "2026-10-25",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/MotionBro-3.1.0.zxp",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/AEscripts.Flow.v1.5.3.zip",
     "description": "Animation presets + easing tool."
+  },
+  {
+    "category": "extension",
+    "name": "Geo Layer",
+    "version": "3.20.0",
+    "last_updated": "2026-10-25",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/GEOlayers3v1.20.0.rar",
+    "description": ""
+  },
+  {
+    "category": "extension",
+    "name": "SaaS Kit",
+    "version": "1.0",
+    "last_updated": "2026-10-25",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/SaaS.Kit.V1.0.rar",
+    "description": ""
+  },
+  {
+    "category": "extension",
+    "name": "Orb Reactor",
+    "version": "1.0",
+    "last_updated": "2026-10-25",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Orb_Reactor_V1.0.rar",
+    "description": ""
+  },
+  {
+    "category": "extension",
+    "name": "Magic Morphing",
+    "version": "1.0",
+    "last_updated": "2026-10-25",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/MagicMorphing_V1.0.0.rar",
+    "description": ""
+  },
+  {
+    "category": "extension",
+    "name": "Click Zoom Pro",
+    "version": "5.3.0",
+    "last_updated": "2026-10-25",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Clickzoom_pro_v5.3.0.rar",
+    "description": ""
   },
   {
     "category": "script",
