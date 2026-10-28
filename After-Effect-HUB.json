@@ -122,7 +122,15 @@
     "version": "1.5.3",
     "last_updated": "2026-10-25",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/AEscripts.Flow.v1.5.3.zip",
-    "description": "Animation presets + easing tool."
+    "description": ""
+  },
+  {
+    "category": "extension",
+    "name": "Motion Bro",
+    "version": "4.5.1",
+    "last_updated": "2026-10-25",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Motion.Bro.4.5.1.zip",
+    "description": ""
   },
   {
     "category": "extension",
