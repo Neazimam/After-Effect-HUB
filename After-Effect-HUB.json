@@ -156,6 +156,22 @@
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/MagicMorphing_V1.0.0.zip",
     "description": ""
   },
+   {
+    "category": "extension",
+    "name": "Break It",
+    "version": "1.6.0",
+    "last_updated": "2026-10-25",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Break.It.V1.6.0.zip",
+    "description": ""
+  },
+   {
+    "category": "extension",
+    "name": "AeScript Bodymovin",
+    "version": "5.9.5",
+    "last_updated": "2026-10-25",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Aescripts.-.Bodymovin.5.9.5.zip",
+    "description": ""
+  },
   {
     "category": "extension",
     "name": "Click Zoom Pro",
