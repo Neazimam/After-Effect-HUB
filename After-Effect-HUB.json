@@ -6,7 +6,7 @@
     "last_updated": "2026-10-26",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Aescripts.Deep.Glow.2.v1.1.1.zip",
     "plugin_type": "aeplugin",
-    "description": "High-quality GPU glow plugin for After Effects."
+    "description": ""
   },
   {
     "category": "plugin",
@@ -170,6 +170,6 @@
     "version": "2.0.1",
     "last_updated": "2026-10-24",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/FlowOutline-2.0.1.jsx",
-    "description": "Outliner for AE layers."
+    "description": ""
   }
 ]
