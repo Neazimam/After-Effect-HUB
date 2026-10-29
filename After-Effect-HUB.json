@@ -359,10 +359,99 @@
   },
   {
     "category": "script",
-    "name": "Flow Outline",
-    "version": "2.0.1",
+    "name": "TypeMonkey3D",
+    "version": "1.0.0",
     "last_updated": "2026-10-24",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/FlowOutline-2.0.1.jsx",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/TypeMonkey3D.zip",
+    "description": ""
+  },
+  {
+    "category": "script",
+    "name": "Text Exploder",
+    "version": "2.0",
+    "last_updated": "2026-10-24",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/TextExploder.zip",
+    "description": ""
+  },
+  {
+    "category": "script",
+    "name": "Super Morphings",
+    "version": "1.0.5",
+    "last_updated": "2026-10-24",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Super.Morphings.zip",
+    "description": ""
+  },
+  {
+    "category": "script",
+    "name": "Super Lines",
+    "version": "1.0",
+    "last_updated": "2026-10-24",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Super.Lines.zip",
+    "description": ""
+  },
+  {
+    "category": "script",
+    "name": "Snap to Path",
+    "version": "1.0.0",
+    "last_updated": "2026-10-24",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/SnapToPath.zip",
+    "description": ""
+  },
+  {
+    "category": "script",
+    "name": "Randomatic",
+    "version": "2.0.13",
+    "last_updated": "2026-10-24",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Randomatic.2.V2.13.zip",
+    "description": ""
+  },
+
+{
+    "category": "script",
+    "name": "Pop Captions",
+    "version": "2.0",
+    "last_updated": "2026-10-24",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/PopCaptions_v2.0.zip",
+    "description": ""
+  },
+  {
+    "category": "script",
+    "name": "Emoji Kit",
+    "version": "1.0",
+    "last_updated": "2026-10-24",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/EmojiKit.zip",
+    "description": ""
+  },
+  {
+    "category": "script",
+    "name": "Control LMFX",
+    "version": "1.0",
+    "last_updated": "2026-10-24",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Control.LMFX.zip",
+    "description": ""
+  },
+  {
+    "category": "script",
+    "name": "TypeMonkey",
+    "version": "1.28",
+    "last_updated": "2026-10-24",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Aescripts.TypeMonkey.v1.28.zip",
+    "description": ""
+  },
+  {
+    "category": "script",
+    "name": "Gradient Flow",
+    "version": "1.0",
+    "last_updated": "2026-10-24",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Gradient.Flow.zip",
+    "description": ""
+  },
+  {
+    "category": "script",
+    "name": "Collage Pro",
+    "version": "2.0.0",
+    "last_updated": "2026-10-24",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Collage.Pro.zip",
     "description": ""
   }
 ]
