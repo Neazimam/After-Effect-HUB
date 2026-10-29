@@ -182,10 +182,179 @@
   },
   {
     "category": "extension",
+    "name": "3D Letters Animator",
+    "version": "1.0",
+    "last_updated": "2026-10-25",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/3D.Letters.Animator.1.0.zip",
+    "description": ""
+  },
+  {
+    "category": "extension",
+    "name": "3D Wizard",
+    "version": "2.5.2",
+    "last_updated": "2026-10-25",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/3D.Wizard.2.5.2.zip",
+    "description": ""
+  },
+  {
+    "category": "extension",
+    "name": "Aescripts Karton",
+    "version": "2.0.3",
+    "last_updated": "2026-10-25",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Aescripts.Karton.v2.0.3.zip",
+    "description": ""
+  },
+  {
+    "category": "extension",
+    "name": "AeScript Motion Tweaks",
+    "version": "1.1.1",
+    "last_updated": "2026-10-25",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Aescripts.Motion.Tweaks.v1.1.1.zip",
+    "description": ""
+  },
+  {
+    "category": "extension",
+    "name": "Animate Parallax",
+    "version": "1.4.0",
+    "last_updated": "2026-10-25",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/AnimateParallax.V1.4.0.zip",
+    "description": ""
+  },
+  {
+    "category": "extension",
+    "name": "AtomX",
+    "version": "3.3.3",
+    "last_updated": "2026-10-25",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/AtomX.3.3.3.zip",
+    "description": ""
+  },
+  {
+    "category": "extension",
+    "name": "Camera 3D Toolkit Pro",
+    "version": "1.0",
+    "last_updated": "2026-10-25",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Camera3DToolkitPro.zip",
+    "description": ""
+  },
+  {
+    "category": "extension",
+    "name": "JerryFlow",
+    "version": "2",
+    "last_updated": "2026-10-25",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/com.jerryflow.v2.zip",
+    "description": ""
+  },
+  {
+    "category": "extension",
+    "name": "PhysicDesk",
+    "version": "1.0",
+    "last_updated": "2026-10-25",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/com.motiondesk.physicdesk.zip",
+    "description": ""
+  },
+  {
+    "category": "extension",
+    "name": "Cyclops",
+    "version": "3.0.8",
+    "last_updated": "2026-10-25",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Cyclops.v3.0.8.zip",
+    "description": ""
+  },
+  {
+    "category": "extension",
+    "name": "drAEw",
+    "version": "1.0.016",
+    "last_updated": "2026-10-25",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/drAEw.v1.0.016.zip",
+    "description": ""
+  },
+  {
+    "category": "extension",
+    "name": "Ex-CaptureFlex",
+    "version": "2.1",
+    "last_updated": "2026-10-25",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Ex-CaptureFlex.Flex.GUI.Pro.V2.1.zip",
+    "description": ""
+  },
+  {
+    "category": "extension",
+    "name": "GifGun",
+    "version": "2.2.1",
+    "last_updated": "2026-10-25",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/GifGun.v2.2.1.zip",
+    "description": ""
+  },
+  {
+    "category": "extension",
+    "name": "GradientHub",
+    "version": "1.3.1",
+    "last_updated": "2026-10-25",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/GradientHub.1.3.1.zip",
+    "description": ""
+  },
+
+  {
+    "category": "extension",
     "name": "Click Zoom Pro",
     "version": "5.3.0",
     "last_updated": "2026-10-25",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Clickzoom_pro_v5.3.0.zip",
+    "description": ""
+  },
+  {
+    "category": "extension",
+    "name": "Grid Builder",
+    "version": "2.0.1",
+    "last_updated": "2026-10-25",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/GridBuilder201.zip",
+    "description": ""
+  },
+  {
+    "category": "extension",
+    "name": "Icon Library",
+    "version": "2.0.0",
+    "last_updated": "2026-10-25",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Icon_Library_2.0.0.zip",
+    "description": ""
+  },
+{
+    "category": "extension",
+    "name": "Motion",
+    "version": "4.3.4.4708",
+    "last_updated": "2026-10-25",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Motion.v4.3.4.4708.zip",
+    "description": ""
+  },
+  {
+    "category": "extension",
+    "name": "Pigment",
+    "version": "1.2.3",
+    "last_updated": "2026-10-25",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Pigment.V1.2.3.zip",
+    "description": ""
+  },
+  {
+    "category": "extension",
+    "name": "Railcut",
+    "version": "1.0.0",
+    "last_updated": "2026-10-25",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Railcut.zip",
+    "description": ""
+  },
+  {
+    "category": "extension",
+    "name": "RectControl",
+    "version": "1.0.3",
+    "last_updated": "2026-10-25",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/RectControl.v1.0.3.zip",
+    "description": ""
+  },
+  {
+    "category": "extension",
+    "name": "SVG2Premiere",
+    "version": "1.0.0",
+    "last_updated": "2026-10-25",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/SVG2Premiere_v.1.0.zip",
     "description": ""
   },
   {
