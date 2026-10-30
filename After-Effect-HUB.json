@@ -3,455 +3,596 @@
     "category": "plugin",
     "name": "AE DeepGlow",
     "version": "1.1",
-    "last_updated": "2026-10-26",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Aescripts.Deep.Glow.2.v1.1.1.zip",
     "plugin_type": "aeplugin",
-    "description": ""
+    "description": "",
+    "sha256": "5e91f2d5e2df8c9853263c64f41e7b45e563d00241b451d32e3adf4dac2cb1a8",
+    "size_bytes": 1586946
   },
   {
     "category": "plugin",
     "name": "Auto Fill V",
     "version": "2",
-    "last_updated": "2026-10-26",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/AutoFill2.zip",
     "plugin_type": "aeplugin",
-    "description": ""
+    "description": "",
+    "sha256": "0add164a52e08eabc7d498a4d733ece8ffa55016b00cfcc184b3c0a0f8251c9c",
+    "size_bytes": 730893
   },
   {
     "category": "plugin",
     "name": "Irrealix Bundle",
     "version": "2026",
-    "last_updated": "2026-10-26",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/irrealix.zip",
     "plugin_type": "core",
-    "description": ""
+    "description": "",
+    "sha256": "187e54fbb8f0bbcbeb748f113677eb60ccc25f962b90edf0eecd7316cad604e5",
+    "size_bytes": 22275192
   },
   {
     "category": "plugin",
     "name": "Chromabba",
     "version": "1.4.3",
-    "last_updated": "2026-10-26",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Chromabba.zip",
     "plugin_type": "core",
-    "description": ""
+    "description": "",
+    "sha256": "540453bc13b6b9466d60f234dfe1abf811c4b3862216356146b2b1de49e928f3",
+    "size_bytes": 2870068
   },
   {
     "category": "plugin",
     "name": "Chromabba",
     "version": "1.3",
-    "last_updated": "2026-10-26",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/CRTX1.3.zip",
     "plugin_type": "core",
-    "description": ""
+    "description": "",
+    "sha256": "3a7030df2f4ba71791e1685c741e0de87eb1dfe433195d86324b3aa451fe459c",
+    "size_bytes": 2113290
   },
   {
     "category": "plugin",
     "name": "Fold Craft",
     "version": "1.0",
-    "last_updated": "2026-10-26",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/FoldCraft.zip",
     "plugin_type": "core",
-    "description": ""
+    "description": "",
+    "sha256": "95e8d24bb6f9c7ffb6d7753b98ff144ce9cd273ee2f51f1ca2139c3a2396cb2f",
+    "size_bytes": 13863382
   },
   {
     "category": "plugin",
     "name": "GlassWork",
     "version": "1.2.0",
-    "last_updated": "2026-10-26",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Glasswork.zip",
     "plugin_type": "core",
-    "description": ""
+    "description": "",
+    "sha256": "5361212d614d178a2d9b39db3a52a5b0d248e21cf4ca7a35b3fb3856502f9285",
+    "size_bytes": 2153830
   },
   {
     "category": "plugin",
     "name": "LightSweep Pro",
     "version": "1.0",
-    "last_updated": "2026-10-26",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/InovativeWorks1.0.zip",
     "plugin_type": "aeplugin",
-    "description": ""
+    "description": "",
+    "sha256": "29dbc41dedd67be90582e73216205134b86a52297344a974ee316b4bd01d05c2",
+    "size_bytes": 166262
   },
   {
     "category": "plugin",
     "name": "MB Liquid Glass",
     "version": "1.0.3",
-    "last_updated": "2026-10-26",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/MBLiquidGlass.zip",
     "plugin_type": "aeplugin",
-    "description": ""
+    "description": "",
+    "sha256": "fff1b4d968cedc41c974ca971b25eb4d594ad8e35f3cab0436a77538fb830bc4",
+    "size_bytes": 459192
   },
   {
     "category": "plugin",
     "name": "PixelSorter",
     "version": "4.2.3",
-    "last_updated": "2026-10-26",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/PixelSorter4.zip",
     "plugin_type": "aeplugin",
-    "description": ""
+    "description": "",
+    "sha256": "c5ef09b1fd389b622980eb24c4714a71b5aca4f66d3237f11458181168b9da25",
+    "size_bytes": 1706743
   },
   {
     "category": "plugin",
     "name": "Signal",
     "version": "1.2.3",
-    "last_updated": "2026-10-26",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/signal1.2.3.zip",
     "plugin_type": "core",
-    "description": ""
+    "description": "",
+    "sha256": "752f3e54e12d5fcc087b7a8bc47b5af852d150bd93a317d2b5b4a7c0de86241e",
+    "size_bytes": 322185
   },
   {
     "category": "plugin",
     "name": "SpeedX",
     "version": "1.2.2",
-    "last_updated": "2026-10-26",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/SpeedX1.2.2.zip",
     "plugin_type": "aeplugin",
-    "description": ""
+    "description": "",
+    "sha256": "b3416fbe870aba9a83976bfaa578c0b54e55183bc044e5d64afca3eb1139d711",
+    "size_bytes": 76721391
   },
   {
     "category": "plugin",
     "name": "Tracery",
     "version": "1.1",
-    "last_updated": "2026-10-26",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Tracery1.1.zip",
     "plugin_type": "core",
-    "description": ""
+    "description": "",
+    "sha256": "c13366bb054f23da85f3bdab9b56dad90255f300df1c2fe9665ee2886ea63d41",
+    "size_bytes": 1662446
   },
   {
     "category": "extension",
     "name": "Ae Script Flow",
     "version": "1.5.3",
-    "last_updated": "2026-10-25",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/AEscripts.Flow.v1.5.3.zip",
-    "description": ""
+    "description": "",
+    "sha256": "e60f68878e70838db5d92ca0c84f03b3682cfdc8fa2381ce28e1c805524aafe2",
+    "size_bytes": 3830025
   },
   {
     "category": "extension",
     "name": "Motion Bro",
     "version": "5.0.6",
-    "last_updated": "2026-10-25",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Motion.Bro.5.0.6.zip",
-    "description": ""
+    "description": "",
+    "sha256": "43ee93574e5910361bcfa92eb4cf2d8a11e0e60a5d47e27716c35dddd52bd80a",
+    "size_bytes": 4974421
   },
   {
     "category": "extension",
     "name": "Geo Layer",
     "version": "3.20.0",
-    "last_updated": "2026-10-25",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/GEOlayers.3.v1.20.0.zip",
-    "description": ""
+    "description": "",
+    "sha256": "ae9bf09c813ceb1ff9dfc5fc4ccd92c6d5db6aea3ed45e8046af930063d9b2b5",
+    "size_bytes": 13539810
   },
   {
     "category": "extension",
     "name": "SaaS Kit",
     "version": "1.0",
-    "last_updated": "2026-10-25",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/SaaS.Kit.V1.0.zip",
-    "description": ""
+    "description": "",
+    "sha256": "66034f3a29a0e7558ece945a186929cd63b1094059197efc0afd130f46f53dd0",
+    "size_bytes": 485673
   },
   {
     "category": "extension",
     "name": "Orb Reactor",
     "version": "1.0",
-    "last_updated": "2026-10-25",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Orb_Reactor_V1.0.zip",
-    "description": ""
+    "description": "",
+    "sha256": "03c6d8a0d9758e090b35b243543777b571822902ced6a4d31bb4c7ef68f4dc15",
+    "size_bytes": 986549
   },
   {
     "category": "extension",
     "name": "Magic Morphing",
-    "version": "1.0",
-    "last_updated": "2026-10-25",
+    "version": "1.0.0",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/MagicMorphing_V1.0.0.zip",
-    "description": ""
+    "description": "",
+    "sha256": "ed8fed30f68ca9522c0731243ea6242d12f30943659291e31cb1f1af7d0715a3",
+    "size_bytes": 1064864
   },
-   {
+  {
     "category": "extension",
     "name": "Break It",
     "version": "1.6.0",
-    "last_updated": "2026-10-25",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Break.It.V1.6.0.zip",
-    "description": ""
+    "description": "",
+    "sha256": "79bd174e83c95e2c74338336f03d3fe7359bd33d2ef762e367f02ae17b1a3c3f",
+    "size_bytes": 2098586
   },
-   {
+  {
     "category": "extension",
     "name": "AeScript Bodymovin",
     "version": "5.9.5",
-    "last_updated": "2026-10-25",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Aescripts.-.Bodymovin.5.9.5.zip",
-    "description": ""
+    "description": "",
+    "sha256": "cc6545442cb272179437100620f22809d6bbcf1fe387c22cc12a9a0a67f70d68",
+    "size_bytes": 19058220
   },
   {
     "category": "extension",
     "name": "3D Letters Animator",
     "version": "1.0",
-    "last_updated": "2026-10-25",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/3D.Letters.Animator.1.0.zip",
-    "description": ""
+    "description": "",
+    "sha256": "8ced21f06cd8721902947bc10e7e15dba454fa04f8deec0323c8174209694ba6",
+    "size_bytes": 141739639
   },
   {
     "category": "extension",
     "name": "3D Wizard",
     "version": "2.5.2",
-    "last_updated": "2026-10-25",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/3D.Wizard.2.5.2.zip",
-    "description": ""
+    "description": "",
+    "sha256": "2f3e0b0a6e0821472a498386c74eb2292cc079ca7974bb63798cae41b93ca323",
+    "size_bytes": 48177200
   },
   {
     "category": "extension",
     "name": "Aescripts Karton",
     "version": "2.0.3",
-    "last_updated": "2026-10-25",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Aescripts.Karton.v2.0.3.zip",
-    "description": ""
+    "description": "",
+    "sha256": "d9fb7953e56cdfa602899bde00848cc9495f097ea3725dfbc1a3d1e1634647fa",
+    "size_bytes": 1797275
   },
   {
     "category": "extension",
     "name": "AeScript Motion Tweaks",
     "version": "1.1.1",
-    "last_updated": "2026-10-25",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Aescripts.Motion.Tweaks.v1.1.1.zip",
-    "description": ""
+    "description": "",
+    "sha256": "8abfcdc018f17bd1bc03caadc2c75d08f3f541841aa4a52dbdd956fba7bd2f04",
+    "size_bytes": 4922553
   },
   {
     "category": "extension",
     "name": "Animate Parallax",
     "version": "1.4.0",
-    "last_updated": "2026-10-25",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/AnimateParallax.V1.4.0.zip",
-    "description": ""
+    "description": "",
+    "sha256": "2128ba1447751ae6b39f52ffe957b6f7b04644576f048e050b40a463c360c3fc",
+    "size_bytes": 2726695
   },
   {
     "category": "extension",
     "name": "AtomX",
     "version": "3.3.3",
-    "last_updated": "2026-10-25",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/AtomX.3.3.3.zip",
-    "description": ""
+    "description": "",
+    "sha256": "9498b2872a3963817300d0b0e4e780e168ca41b2c575d7d46a73189345f95e7a",
+    "size_bytes": 5834091
   },
   {
     "category": "extension",
     "name": "Camera 3D Toolkit Pro",
     "version": "1.0",
-    "last_updated": "2026-10-25",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Camera3DToolkitPro.zip",
-    "description": ""
+    "description": "",
+    "sha256": "010ec15772e721223067832a9c1ebd4b968942df50bb8aa1928f4d2c8678e85d",
+    "size_bytes": 153865
   },
   {
     "category": "extension",
     "name": "JerryFlow",
     "version": "2",
-    "last_updated": "2026-10-25",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/com.jerryflow.v2.zip",
-    "description": ""
+    "description": "",
+    "sha256": "4bd7513640895f1160df427f5c1a543b53a713f079709364c75725a413d3dea4",
+    "size_bytes": 44106306
   },
   {
     "category": "extension",
     "name": "PhysicDesk",
     "version": "1.0",
-    "last_updated": "2026-10-25",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/com.motiondesk.physicdesk.zip",
-    "description": ""
+    "description": "",
+    "sha256": "979867c6b037787a9afc5a9d1a466618d0781826119dd9d74b4a21291ab374bd",
+    "size_bytes": 4957996
   },
   {
     "category": "extension",
     "name": "Cyclops",
     "version": "3.0.8",
-    "last_updated": "2026-10-25",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Cyclops.v3.0.8.zip",
-    "description": ""
+    "description": "",
+    "sha256": "fa246c1c3c44f11e4e2fc6dc7079a3c225e132a2e5c86af2f628207253c303de",
+    "size_bytes": 30417222
   },
   {
     "category": "extension",
     "name": "drAEw",
     "version": "1.0.016",
-    "last_updated": "2026-10-25",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/drAEw.v1.0.016.zip",
-    "description": ""
+    "description": "",
+    "sha256": "6af08213012f1b8e132080e51f0630432eaf858d2765d07b4c247f4d9c92ed41",
+    "size_bytes": 5112637
   },
   {
     "category": "extension",
     "name": "Ex-CaptureFlex",
     "version": "2.1",
-    "last_updated": "2026-10-25",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Ex-CaptureFlex.Flex.GUI.Pro.V2.1.zip",
-    "description": ""
+    "description": "",
+    "sha256": "68afda877ab5aeb51cf6f1b68fa4dc49ee8dc71750d80c43376a8f7f3eb7483a",
+    "size_bytes": 63412
   },
   {
     "category": "extension",
     "name": "GifGun",
     "version": "2.2.1",
-    "last_updated": "2026-10-25",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/GifGun.v2.2.1.zip",
-    "description": ""
+    "description": "",
+    "sha256": "cff0ed8ad882f17aaab237f309931dba58482ecc1918baf424e00b2202f8ef71",
+    "size_bytes": 111595160
   },
   {
     "category": "extension",
     "name": "GradientHub",
     "version": "1.3.1",
-    "last_updated": "2026-10-25",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/GradientHub.1.3.1.zip",
-    "description": ""
+    "description": "",
+    "sha256": "2baef99c218334bc901e07453b85dece101faa5ff1fcd0a9ac810dfc19cbd692",
+    "size_bytes": 16317750
   },
-
   {
     "category": "extension",
     "name": "Click Zoom Pro",
     "version": "5.3.0",
-    "last_updated": "2026-10-25",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Clickzoom_pro_v5.3.0.zip",
-    "description": ""
+    "description": "",
+    "sha256": "33df0fa7b27bc95898cef1950ae82813198d8aff452a124f3983aa0062958680",
+    "size_bytes": 169744941
   },
   {
     "category": "extension",
     "name": "Grid Builder",
     "version": "2.0.1",
-    "last_updated": "2026-10-25",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/GridBuilder201.zip",
-    "description": ""
+    "description": "",
+    "sha256": "2038967ac2120263b87146f1068045980f9fdf0e845157954c9c2bdb86c54db0",
+    "size_bytes": 1034338
   },
   {
     "category": "extension",
     "name": "Icon Library",
     "version": "2.0.0",
-    "last_updated": "2026-10-25",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Icon_Library_2.0.0.zip",
-    "description": ""
+    "description": "",
+    "sha256": "05520719c64be09f45d1c957bd0da50a54df4332cf8caebafd85a3ed886ce27d",
+    "size_bytes": 58836319
   },
-{
+  {
     "category": "extension",
     "name": "Motion",
     "version": "4.3.4.4708",
-    "last_updated": "2026-10-25",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Motion.v4.3.4.4708.zip",
-    "description": ""
+    "description": "",
+    "sha256": "e6d39967868b0e41b347eb5a2860c51ae2ba64bf707f3f987ae5c7a60a9ca899",
+    "size_bytes": 11713937
   },
   {
     "category": "extension",
     "name": "Pigment",
     "version": "1.2.3",
-    "last_updated": "2026-10-25",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Pigment.V1.2.3.zip",
-    "description": ""
+    "description": "",
+    "sha256": "625828e8ba9e82af59efa3d801f4696c7ea8401fb1f4be3555c3266518d68128",
+    "size_bytes": 1574516
   },
   {
     "category": "extension",
     "name": "Railcut",
     "version": "1.0.0",
-    "last_updated": "2026-10-25",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Railcut.zip",
-    "description": ""
+    "description": "",
+    "sha256": "c006f756d1a591cafac40ffaae54f2e840164d13714fd18ccbec4fbcf25168d2",
+    "size_bytes": 63048808
   },
   {
     "category": "extension",
     "name": "RectControl",
     "version": "1.0.3",
-    "last_updated": "2026-10-25",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/RectControl.v1.0.3.zip",
-    "description": ""
+    "description": "",
+    "sha256": "414e15a625b82deafd457e69e8f2c1f465528e54658f63cd1cb58cdfae9fc527",
+    "size_bytes": 978919
   },
   {
     "category": "extension",
     "name": "SVG2Premiere",
     "version": "1.0.0",
-    "last_updated": "2026-10-25",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/SVG2Premiere_v.1.0.zip",
-    "description": ""
+    "description": "",
+    "sha256": "05464b8c3c2f1fc1193a40a5e01d16fd3781074e661951b9cde4e98a17cd2d1a",
+    "size_bytes": 326882
   },
   {
     "category": "script",
     "name": "TypeMonkey3D",
     "version": "1.0.0",
-    "last_updated": "2026-10-24",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/TypeMonkey3D.zip",
-    "description": ""
+    "description": "",
+    "sha256": "e297f334ce7d897341daf92fcc49e995548e2c6d1ddb044d3ad34eaee48fd69d",
+    "size_bytes": 100662320
   },
   {
     "category": "script",
     "name": "Text Exploder",
     "version": "2.0",
-    "last_updated": "2026-10-24",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/TextExploder.zip",
-    "description": ""
+    "description": "",
+    "sha256": "24f4f3909b9a1b180bcba382b3bf0f5498a6d03f96dc888b278eb45576c7e805",
+    "size_bytes": 714773
   },
   {
     "category": "script",
     "name": "Super Morphings",
     "version": "1.0.5",
-    "last_updated": "2026-10-24",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Super.Morphings.zip",
-    "description": ""
+    "description": "",
+    "sha256": "52ea40b9b8124e24c7a8a530db9c163dd8c41dae349002ad8d0951eb649e8d47",
+    "size_bytes": 1862605
   },
   {
     "category": "script",
     "name": "Super Lines",
     "version": "1.0",
-    "last_updated": "2026-10-24",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Super.Lines.zip",
-    "description": ""
+    "description": "",
+    "sha256": "41f967994c67bc2f904b622d9c621951686ed077e633c7a0d2c5b7d31347b901",
+    "size_bytes": 431112
   },
   {
     "category": "script",
     "name": "Snap to Path",
     "version": "1.0.0",
-    "last_updated": "2026-10-24",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/SnapToPath.zip",
-    "description": ""
+    "description": "",
+    "sha256": "9d3ab4b8401445e05bbe13d6b7d5904dd08ed7ac32e5dea08e1e1cdb8551d870",
+    "size_bytes": 9295
   },
   {
     "category": "script",
     "name": "Randomatic",
     "version": "2.0.13",
-    "last_updated": "2026-10-24",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Randomatic.2.V2.13.zip",
-    "description": ""
+    "description": "",
+    "sha256": "fcd8b49e97880476fc0709bb5ab19def242002719a1c88f138905e552c420457",
+    "size_bytes": 722505
   },
-
-{
+  {
     "category": "script",
     "name": "Pop Captions",
     "version": "2.0",
-    "last_updated": "2026-10-24",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/PopCaptions_v2.0.zip",
-    "description": ""
+    "description": "",
+    "sha256": "6b208e4696e8e021b01dceaf4ea8c7b2397b76dcedeb1fa0820c06c207056c9a",
+    "size_bytes": 667982
   },
   {
     "category": "script",
     "name": "Emoji Kit",
     "version": "1.0",
-    "last_updated": "2026-10-24",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/EmojiKit.zip",
-    "description": ""
+    "description": "",
+    "sha256": "fd3a4b108d3ef47ad6b8b24d47e6ba974bd77f5f8110aa8f7a23504f0203102d",
+    "size_bytes": 2557658
   },
   {
     "category": "script",
     "name": "Control LMFX",
     "version": "1.0",
-    "last_updated": "2026-10-24",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Control.LMFX.zip",
-    "description": ""
+    "description": "",
+    "sha256": "3473b523fd8396ff390ef45e820148515c22ea43f730badbce21135160968420",
+    "size_bytes": 1058344
   },
   {
     "category": "script",
     "name": "TypeMonkey",
     "version": "1.28",
-    "last_updated": "2026-10-24",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Aescripts.TypeMonkey.v1.28.zip",
-    "description": ""
+    "description": "",
+    "sha256": "fe7dec226a9141f5ae8c9d7f73d32cbeae14249c3af5352c389c522ce3e163df",
+    "size_bytes": 1849757
   },
   {
     "category": "script",
     "name": "Gradient Flow",
     "version": "1.0",
-    "last_updated": "2026-10-24",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Gradient.Flow.zip",
-    "description": ""
+    "description": "",
+    "sha256": "4a383a4a938cbf746e720e31963eb86001fe4f954b1097b31cd46d1d3df8ddd5",
+    "size_bytes": 666622
   },
   {
     "category": "script",
     "name": "Collage Pro",
     "version": "2.0.0",
-    "last_updated": "2026-10-24",
+    "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Collage.Pro.zip",
-    "description": ""
+    "description": "",
+    "sha256": "ecf09b05411afe5278469742d09f5ead6076b66478e906ba45e45975fed8439a",
+    "size_bytes": 838089
+  },
+  {
+    "id": "displacerpro",
+    "category": "plugin",
+    "name": "DisplacerPro",
+    "version": "1.0.0",
+    "last_updated": "2026-10-30",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/DisplacerPro.zip",
+    "sha256": "f9a8e55ddfbc2e1305c529035f251f0ba4df07ce9b383265f32e57e9273462dc",
+    "size_bytes": 103543,
+    "plugin_type": "aeplugin"
+  },
+  {
+    "id": "inkbloom",
+    "category": "plugin",
+    "name": "InkBloom",
+    "version": "1.0.0",
+    "last_updated": "2026-10-30",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/InkBloom.zip",
+    "sha256": "85b91ed31c6df2f635804c436257334dbe0ea17e30d31957d650bd490625a282",
+    "size_bytes": 171738,
+    "plugin_type": "aeplugin"
+  },
+  {
+    "id": "newton",
+    "category": "plugin",
+    "name": "Newton",
+    "version": "1.0.0",
+    "last_updated": "2026-10-30",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Newton.zip",
+    "sha256": "dca579e742ff1d7e0bf73614927150b2046cc92da7a6c85ac53e2aab42dd8ae3",
+    "size_bytes": 14580586,
+    "plugin_type": "aeplugin"
   }
 ]
