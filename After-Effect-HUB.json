@@ -637,6 +637,7 @@
     "sha256": "8bc7869062ea0b918b1e72ad49b796970d7998f6f49d49b1c41bad05d30bc2ca",
     "size_bytes": 2531051,
     "plugin_type": "core"
+  },
   {
     "id": "lockdown-core",
     "category": "plugin",
