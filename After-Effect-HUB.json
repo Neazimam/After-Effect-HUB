@@ -608,45 +608,44 @@
   {
     "id": "ballpoint-core",
     "category": "plugin",
-    "name": "Ballpoint.core",
+    "name": "Ballpoint",
     "version": "1.6.8",
     "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Ballpoint.core-1.6.8.zip",
     "sha256": "88bdfebba9d4357d47661e7e04e785a78f5f112f777c07945d7f377ab2ce2b4e",
     "size_bytes": 4131946,
-    "plugin_type": "aeplugin"
+    "plugin_type": "core"
   },
   {
     "id": "cosmic-core",
     "category": "plugin",
-    "name": "Cosmic.core",
+    "name": "Cosmic",
     "version": "1.0",
     "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Cosmic.core-1.0.zip",
     "sha256": "d0cf0b6c525ba187d166712be1a749bc0bf3f32e62220accb2caf56d56c084b1",
     "size_bytes": 356270,
-    "plugin_type": "aeplugin"
+    "plugin_type": "core"
   },
   {
     "id": "gaussiansplatting-core",
     "category": "plugin",
-    "name": "GaussianSplatting.core",
+    "name": "GaussianSplatting",
     "version": "1.7.1",
     "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/GaussianSplatting.core-1.7.1.zip",
     "sha256": "8bc7869062ea0b918b1e72ad49b796970d7998f6f49d49b1c41bad05d30bc2ca",
     "size_bytes": 2531051,
-    "plugin_type": "aeplugin"
-  },
+    "plugin_type": "core"
   {
     "id": "lockdown-core",
     "category": "plugin",
-    "name": "Lockdown.core",
+    "name": "Lockdown",
     "version": "4.1.0",
     "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Lockdown.core-4.1.0.zip",
     "sha256": "9fa7b6fc7777f33cb49787a40846b8c1c859703787a59352bf2a562572f688d5",
     "size_bytes": 77309551,
-    "plugin_type": "aeplugin"
+    "plugin_type": "core"
   }
 ]
