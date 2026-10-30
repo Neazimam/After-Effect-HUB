@@ -594,5 +594,15 @@
     "sha256": "dca579e742ff1d7e0bf73614927150b2046cc92da7a6c85ac53e2aab42dd8ae3",
     "size_bytes": 14580586,
     "plugin_type": "aeplugin"
+  },
+  {
+    "id": "com-aescripts-motiontoolspro-cep",
+    "category": "extension",
+    "name": "com.aescripts.motiontoolspro.cep",
+    "version": "1.0.0",
+    "last_updated": "2026-10-30",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/com.aescripts.motiontoolspro.cep.zip",
+    "sha256": "5dcb842e644ff6eae4ded1903b779a36bea2186098c21fa49782f41d2e03f4bf",
+    "size_bytes": 11477003
   }
 ]
