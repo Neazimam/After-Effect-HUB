@@ -598,8 +598,8 @@
   {
     "id": "com-aescripts-motiontoolspro-cep",
     "category": "extension",
-    "name": "com.aescripts.motiontoolspro.cep",
-    "version": "1.0.0",
+    "name": "Motion Tool Pro",
+    "version": "2.1.0",
     "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/com.aescripts.motiontoolspro.cep.zip",
     "sha256": "5dcb842e644ff6eae4ded1903b779a36bea2186098c21fa49782f41d2e03f4bf",
