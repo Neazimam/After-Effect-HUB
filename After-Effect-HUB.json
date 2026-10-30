@@ -314,16 +314,6 @@
   },
   {
     "category": "extension",
-    "name": "Cyclops",
-    "version": "3.0.8",
-    "last_updated": "2026-10-30",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Cyclops.v3.0.8.zip",
-    "description": "",
-    "sha256": "fa246c1c3c44f11e4e2fc6dc7079a3c225e132a2e5c86af2f628207253c303de",
-    "size_bytes": 30417222
-  },
-  {
-    "category": "extension",
     "name": "drAEw",
     "version": "1.0.016",
     "last_updated": "2026-10-30",
@@ -648,5 +638,217 @@
     "sha256": "9fa7b6fc7777f33cb49787a40846b8c1c859703787a59352bf2a562572f688d5",
     "size_bytes": 77309551,
     "plugin_type": "core"
+  },
+  {
+    "id": "bao-bones",
+    "category": "plugin",
+    "name": "BAO Bones",
+    "version": "1.5.10",
+    "last_updated": "2026-10-30",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/BAO_Bones-1.5.10.zip",
+    "sha256": "a120f1c2a4a4685052803bf27921e52318e3719af942ecae1bd7f59c10b66aef",
+    "size_bytes": 7192121,
+    "plugin_type": "aeplugin"
+  },
+  {
+    "id": "color-llama-core",
+    "category": "plugin",
+    "name": "Color.Llama.core",
+    "version": "1.1.1",
+    "last_updated": "2026-10-30",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Color.Llama.core-1.1.1.zip",
+    "sha256": "d8f6140b8a0c47f9a11cc1b39859b35e7fb023ce10ee7542867b40eee68ece78",
+    "size_bytes": 1118227,
+    "plugin_type": "aeplugin"
+  },
+  {
+    "id": "cyclops-4-0-0",
+    "category": "extension",
+    "name": "Cyclops.4.0.0",
+    "version": "1.0.0",
+    "last_updated": "2026-10-30",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Cyclops.4.0.0.zip",
+    "sha256": "08e649a2a3714cd363bfddba151b58ce353ede3d8730967fef906b998d844e53",
+    "size_bytes": 7858213
+  },
+  {
+    "id": "dreamglare-core",
+    "category": "plugin",
+    "name": "DreamGlare.core",
+    "version": "1.0",
+    "last_updated": "2026-10-30",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/DreamGlare.core-1.0.zip",
+    "sha256": "5ba48cc73acc0b23df3bae3c8aa3fa68a2cb8b35cc9411fd557f2cdcdfe76ee0",
+    "size_bytes": 270404,
+    "plugin_type": "aeplugin"
+  },
+  {
+    "id": "flowr-core",
+    "category": "plugin",
+    "name": "Flowr.core",
+    "version": "1.0",
+    "last_updated": "2026-10-30",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Flowr.core-1.0.zip",
+    "sha256": "26fedc2f24231a6e40b13000b6e72680d0d7b53f3df5c295bc6c511b4d6d8add",
+    "size_bytes": 2209266,
+    "plugin_type": "aeplugin"
+  },
+  {
+    "id": "glassary",
+    "category": "plugin",
+    "name": "Glassary",
+    "version": "1.7",
+    "last_updated": "2026-10-30",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Glassary-1.7.zip",
+    "sha256": "9759bdd723b00f684fc52b4290171e750649aa0d4a2380239bbac614ab734612",
+    "size_bytes": 234484,
+    "plugin_type": "aeplugin"
+  },
+  {
+    "id": "glassary",
+    "category": "script",
+    "name": "Glassary",
+    "version": "1.0.0",
+    "last_updated": "2026-10-30",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Glassary.zip",
+    "sha256": "694bdbbea82eea79fddd8b045c83e6f643d1dfda13940caa1f581f3ba32b8a71",
+    "size_bytes": 41094
+  },
+  {
+    "id": "highlighter",
+    "category": "script",
+    "name": "Highlighter",
+    "version": "1.0.0",
+    "last_updated": "2026-10-30",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Highlighter.zip",
+    "sha256": "2a0f147937a20d623d6ad7175b4236940e71b86a58f071e4b95cbc0d3f508afb",
+    "size_bytes": 3570827
+  },
+  {
+    "id": "jerrysfx",
+    "category": "extension",
+    "name": "JerrySFX",
+    "version": "1.0.0",
+    "last_updated": "2026-10-30",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/JerrySFX.zip",
+    "sha256": "3bff782288c7068e4e3e54d3665a70027a312428e16081056066ce529b8a69ef",
+    "size_bytes": 290470641
+  },
+  {
+    "id": "kease-v2-4-1",
+    "category": "extension",
+    "name": "Kease.V2.4.1",
+    "version": "1.0.0",
+    "last_updated": "2026-10-30",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Kease.V2.4.1.zip",
+    "sha256": "82832def21e29c8a77f2fa1cca4ab7c4f6ae32a04a6046373bb717c3f2192d52",
+    "size_bytes": 1350153
+  },
+  {
+    "id": "motionextractor-core",
+    "category": "plugin",
+    "name": "MotionExtractor.core",
+    "version": "1.1.0",
+    "last_updated": "2026-10-30",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/MotionExtractor.core-1.1.0.zip",
+    "sha256": "d358ec74dbef0b6f323ca895ef78a4fef209d62049cd2b2ebb99afdb68728ad0",
+    "size_bytes": 2336058,
+    "plugin_type": "aeplugin"
+  },
+  {
+    "id": "photomosaic-core",
+    "category": "plugin",
+    "name": "PhotoMosaic.core",
+    "version": "1.0",
+    "last_updated": "2026-10-30",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/PhotoMosaic.core-1.0.zip",
+    "sha256": "339b1127813bc3bff135277eeb38f3c6da8febe8459bf7081740f50d5bb0b0c4",
+    "size_bytes": 2405497,
+    "plugin_type": "aeplugin"
+  },
+  {
+    "id": "rowbyte-core",
+    "category": "plugin",
+    "name": "Rowbyte.core",
+    "version": "2026",
+    "last_updated": "2026-10-30",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Rowbyte.core-2026.zip",
+    "sha256": "b24fceb32b3610c5ed95f048d0e448dccb31075414bf64f72ff6907f65381c1b",
+    "size_bytes": 14628931,
+    "plugin_type": "aeplugin"
+  },
+  {
+    "id": "sdflow-core",
+    "category": "plugin",
+    "name": "SDFlow.core",
+    "version": "1.0",
+    "last_updated": "2026-10-30",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/SDFlow.core-1.0.zip",
+    "sha256": "f2f7c176302ccab82749d360891c21bc0326a6a43c56c380c61f09f4da30d9e0",
+    "size_bytes": 197389,
+    "plugin_type": "aeplugin"
+  },
+  {
+    "id": "slides-grids",
+    "category": "script",
+    "name": "Slides.Grids",
+    "version": "1.3.1",
+    "last_updated": "2026-10-30",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Slides.Grids-1.3.1.zip",
+    "sha256": "14c232b44a1da0256031f02c35c84c400e8d508fe2f6f1009f220a5179ed0a69",
+    "size_bytes": 1239131
+  },
+  {
+    "id": "sprayon-core",
+    "category": "plugin",
+    "name": "Sprayon.core",
+    "version": "1.0",
+    "last_updated": "2026-10-30",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Sprayon.core-1.0.zip",
+    "sha256": "75ba98a03f4a6f6d1e8f88ecd71da93a2875b76529c689f6904aea41af03af30",
+    "size_bytes": 191143,
+    "plugin_type": "aeplugin"
+  },
+  {
+    "id": "texto-v1-0-1",
+    "category": "extension",
+    "name": "Texto.v1.0.1",
+    "version": "1.0.0",
+    "last_updated": "2026-10-30",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Texto.v1.0.1.zip",
+    "sha256": "70cb915262793587dc7218381d8dfb27f5fe84a391a266b061d2fba6d2e357de",
+    "size_bytes": 984000
+  },
+  {
+    "id": "windrops-core",
+    "category": "plugin",
+    "name": "Windrops.core",
+    "version": "1.0.0",
+    "last_updated": "2026-10-30",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Windrops.core-1.0.0.zip",
+    "sha256": "a0d7c82aa23b2578e17dc7f9f3a4cbc421d3aa9b4204286acd6d309fdb4a9d85",
+    "size_bytes": 237167,
+    "plugin_type": "aeplugin"
+  },
+  {
+    "id": "com-tee-discord-rpc",
+    "category": "extension",
+    "name": "com.tee.discord rpc",
+    "version": "1.0.0",
+    "last_updated": "2026-10-30",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/com.tee.discord-rpc.zip",
+    "sha256": "8df7b164ec22b2b13d617bc559da89e5ba1327e49dc047168072f6516697f874",
+    "size_bytes": 4493966
+  },
+  {
+    "id": "m-shalftone",
+    "category": "plugin",
+    "name": "m.sHalftone",
+    "version": "1.54",
+    "last_updated": "2026-10-30",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/m.sHalftone-1.54.zip",
+    "sha256": "c55b4f40ecb5d052bb2cf3f429a67495680d39ff93a1c5f21df219a21bd1239b",
+    "size_bytes": 312746,
+    "plugin_type": "aeplugin"
   }
 ]
