@@ -43,7 +43,6 @@
     "sha256": "540453bc13b6b9466d60f234dfe1abf811c4b3862216356146b2b1de49e928f3",
     "size_bytes": 2870068
   },
-  
   {
     "category": "plugin",
     "name": "Fold Craft",
@@ -839,6 +838,17 @@
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/m.sHalftone-1.54.zip",
     "sha256": "c55b4f40ecb5d052bb2cf3f429a67495680d39ff93a1c5f21df219a21bd1239b",
     "size_bytes": 312746,
+    "plugin_type": "aeplugin"
+  },
+  {
+    "id": "crtx1-3",
+    "category": "plugin",
+    "name": "CRTX1.3",
+    "version": "1.0.0",
+    "last_updated": "2026-10-30",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/CRTX1.3.zip",
+    "sha256": "3a7030df2f4ba71791e1685c741e0de87eb1dfe433195d86324b3aa451fe459c",
+    "size_bytes": 2113290,
     "plugin_type": "aeplugin"
   }
 ]
