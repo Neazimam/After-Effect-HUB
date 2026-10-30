@@ -653,13 +653,13 @@
   {
     "id": "color-llama-core",
     "category": "plugin",
-    "name": "Color.Llama.core",
+    "name": "Color.Llama",
     "version": "1.1.1",
     "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Color.Llama.core-1.1.1.zip",
     "sha256": "d8f6140b8a0c47f9a11cc1b39859b35e7fb023ce10ee7542867b40eee68ece78",
     "size_bytes": 1118227,
-    "plugin_type": "aeplugin"
+    "plugin_type": "core"
   },
   {
     "id": "cyclops-4-0-0",
@@ -674,24 +674,24 @@
   {
     "id": "dreamglare-core",
     "category": "plugin",
-    "name": "DreamGlare.core",
+    "name": "DreamGlare",
     "version": "1.0",
     "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/DreamGlare.core-1.0.zip",
     "sha256": "5ba48cc73acc0b23df3bae3c8aa3fa68a2cb8b35cc9411fd557f2cdcdfe76ee0",
     "size_bytes": 270404,
-    "plugin_type": "aeplugin"
+    "plugin_type": "core"
   },
   {
     "id": "flowr-core",
     "category": "plugin",
-    "name": "Flowr.core",
+    "name": "Flowr",
     "version": "1.0",
     "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Flowr.core-1.0.zip",
     "sha256": "26fedc2f24231a6e40b13000b6e72680d0d7b53f3df5c295bc6c511b4d6d8add",
     "size_bytes": 2209266,
-    "plugin_type": "aeplugin"
+    "plugin_type": "core"
   },
   {
     "id": "glassary",
@@ -747,46 +747,46 @@
   {
     "id": "motionextractor-core",
     "category": "plugin",
-    "name": "MotionExtractor.core",
+    "name": "MotionExtractor",
     "version": "1.1.0",
     "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/MotionExtractor.core-1.1.0.zip",
     "sha256": "d358ec74dbef0b6f323ca895ef78a4fef209d62049cd2b2ebb99afdb68728ad0",
     "size_bytes": 2336058,
-    "plugin_type": "aeplugin"
+    "plugin_type": "core"
   },
   {
     "id": "photomosaic-core",
     "category": "plugin",
-    "name": "PhotoMosaic.core",
+    "name": "PhotoMosaic",
     "version": "1.0",
     "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/PhotoMosaic.core-1.0.zip",
     "sha256": "339b1127813bc3bff135277eeb38f3c6da8febe8459bf7081740f50d5bb0b0c4",
     "size_bytes": 2405497,
-    "plugin_type": "aeplugin"
+    "plugin_type": "core"
   },
   {
     "id": "rowbyte-core",
     "category": "plugin",
-    "name": "Rowbyte.core",
+    "name": "Rowbyte",
     "version": "2026",
     "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Rowbyte.core-2026.zip",
     "sha256": "b24fceb32b3610c5ed95f048d0e448dccb31075414bf64f72ff6907f65381c1b",
     "size_bytes": 14628931,
-    "plugin_type": "aeplugin"
+    "plugin_type": "core"
   },
   {
     "id": "sdflow-core",
     "category": "plugin",
-    "name": "SDFlow.core",
+    "name": "SDFlow",
     "version": "1.0",
     "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/SDFlow.core-1.0.zip",
     "sha256": "f2f7c176302ccab82749d360891c21bc0326a6a43c56c380c61f09f4da30d9e0",
     "size_bytes": 197389,
-    "plugin_type": "aeplugin"
+    "plugin_type": "core"
   },
   {
     "id": "slides-grids",
@@ -801,13 +801,13 @@
   {
     "id": "sprayon-core",
     "category": "plugin",
-    "name": "Sprayon.core",
+    "name": "Sprayon",
     "version": "1.0",
     "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Sprayon.core-1.0.zip",
     "sha256": "75ba98a03f4a6f6d1e8f88ecd71da93a2875b76529c689f6904aea41af03af30",
     "size_bytes": 191143,
-    "plugin_type": "aeplugin"
+    "plugin_type": "core"
   },
   {
     "id": "texto-v1-0-1",
@@ -822,13 +822,13 @@
   {
     "id": "windrops-core",
     "category": "plugin",
-    "name": "Windrops.core",
+    "name": "Windrops",
     "version": "1.0.0",
     "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Windrops.core-1.0.0.zip",
     "sha256": "a0d7c82aa23b2578e17dc7f9f3a4cbc421d3aa9b4204286acd6d309fdb4a9d85",
     "size_bytes": 237167,
-    "plugin_type": "aeplugin"
+    "plugin_type": "core"
   },
   {
     "id": "com-tee-discord-rpc",
