@@ -588,7 +588,7 @@
     "id": "newton",
     "category": "plugin",
     "name": "Newton",
-    "version": "1.0.0",
+    "version": "4.0.0",
     "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Newton.zip",
     "sha256": "dca579e742ff1d7e0bf73614927150b2046cc92da7a6c85ac53e2aab42dd8ae3",
