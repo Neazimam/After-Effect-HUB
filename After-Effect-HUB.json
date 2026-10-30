@@ -43,17 +43,7 @@
     "sha256": "540453bc13b6b9466d60f234dfe1abf811c4b3862216356146b2b1de49e928f3",
     "size_bytes": 2870068
   },
-  {
-    "category": "plugin",
-    "name": "Chromabba",
-    "version": "1.3",
-    "last_updated": "2026-10-30",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/CRTX1.3.zip",
-    "plugin_type": "core",
-    "description": "",
-    "sha256": "3a7030df2f4ba71791e1685c741e0de87eb1dfe433195d86324b3aa451fe459c",
-    "size_bytes": 2113290
-  },
+  
   {
     "category": "plugin",
     "name": "Fold Craft",
