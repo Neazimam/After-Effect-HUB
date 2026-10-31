@@ -843,13 +843,13 @@
   {
     "id": "facepro-core",
     "category": "plugin",
-    "name": "FacePro.core",
+    "name": "FacePro",
     "version": "1.20",
     "last_updated": "2026-10-31",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/FacePro.core-1.20.zip",
     "sha256": "a1c340c948eac7d4e3e640c2ee75f3834612085e0186f3f09b109975e5736ee6",
     "size_bytes": 33905196,
-    "plugin_type": "aeplugin"
+    "plugin_type": "core"
   },
   {
     "id": "gpudog-deep-core",
@@ -917,13 +917,13 @@
   {
     "id": "putty-core",
     "category": "plugin",
-    "name": "Putty.core",
+    "name": "Putty",
     "version": "117",
     "last_updated": "2026-10-31",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Putty.core-117.zip",
     "sha256": "e7c3b74630185562a506936f2c83c50c29b2cb4344bdf681cd4abbf8335ae51b",
     "size_bytes": 90426406,
-    "plugin_type": "aeplugin"
+    "plugin_type": "core"
   },
   {
     "id": "stash",
@@ -958,12 +958,12 @@
   {
     "id": "dropletee-core",
     "category": "plugin",
-    "name": "Dropletee.core",
+    "name": "Dropletee",
     "version": "1.0.14",
     "last_updated": "2026-10-31",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Dropletee.core-1.0.14.zip",
     "sha256": "4f66184a457aec013b6a1411af44647abf7e2fe02ad446277bd9b6bdf0aed025",
     "size_bytes": 4974332,
-    "plugin_type": "aeplugin"
+    "plugin_type": "core"
   }
 ]
