@@ -860,7 +860,7 @@
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/GPUDog_Deep.core-v1.5.2.zip",
     "sha256": "80221694a223a9d92d66b0817501623ecfb40728beea741f3e5d3c14df0d4e8d",
     "size_bytes": 8453218,
-    "plugin_type": "aeplugin"
+    "plugin_type": "core"
   },
   {
     "id": "gpudog-deep",
