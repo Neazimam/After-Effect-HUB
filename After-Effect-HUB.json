@@ -854,7 +854,7 @@
   {
     "id": "gpudog-deep-core",
     "category": "plugin",
-    "name": "GPUDog Deep.core",
+    "name": "GPUDog Deep",
     "version": "1.5.2",
     "last_updated": "2026-10-31",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/GPUDog_Deep.core-v1.5.2.zip",
