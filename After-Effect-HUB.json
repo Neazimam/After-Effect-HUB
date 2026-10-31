@@ -995,5 +995,15 @@
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/React.3.0.1.zip",
     "sha256": "ced3cbbc56b8d41a046e5d54d0cd4c370f8faac71e5129e5f72350794d1ffa9e",
     "size_bytes": 2643932
+  },
+  {
+    "id": "cm-carousel-builder",
+    "category": "script",
+    "name": "CM Carousel Builder",
+    "version": "1.0.0",
+    "last_updated": "2026-10-31",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/CM_Carousel_Builder.zip",
+    "sha256": "a72ba735bd42f288d6827bb673e97b500e176968d9de4ca233eb933b2800de8e",
+    "size_bytes": 1763
   }
 ]
