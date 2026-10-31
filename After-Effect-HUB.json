@@ -683,27 +683,6 @@
     "plugin_type": "core"
   },
   {
-    "id": "glassary",
-    "category": "plugin",
-    "name": "Glassary",
-    "version": "1.7",
-    "last_updated": "2026-10-30",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Glassary-1.7.zip",
-    "sha256": "9759bdd723b00f684fc52b4290171e750649aa0d4a2380239bbac614ab734612",
-    "size_bytes": 234484,
-    "plugin_type": "aeplugin"
-  },
-  {
-    "id": "glassary",
-    "category": "script",
-    "name": "Glassary",
-    "version": "1.0.0",
-    "last_updated": "2026-10-30",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Glassary.zip",
-    "sha256": "694bdbbea82eea79fddd8b045c83e6f643d1dfda13940caa1f581f3ba32b8a71",
-    "size_bytes": 41094
-  },
-  {
     "id": "highlighter",
     "category": "script",
     "name": "Highlighter",
@@ -850,5 +829,130 @@
     "sha256": "3a7030df2f4ba71791e1685c741e0de87eb1dfe433195d86324b3aa451fe459c",
     "size_bytes": 2113290,
     "plugin_type": "aeplugin"
+  },
+  {
+    "id": "delay-motion-pro",
+    "category": "script",
+    "name": "Delay.Motion.Pro",
+    "version": "2.0",
+    "last_updated": "2026-10-31",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Delay.Motion.Pro-2.0.zip",
+    "sha256": "38ae6811557addc697ec29fc9a361ee28f7dd3209cff57b3dc63ab1e7f60e629",
+    "size_bytes": 711709
+  },
+  {
+    "id": "facepro-core",
+    "category": "plugin",
+    "name": "FacePro.core",
+    "version": "1.20",
+    "last_updated": "2026-10-31",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/FacePro.core-1.20.zip",
+    "sha256": "a1c340c948eac7d4e3e640c2ee75f3834612085e0186f3f09b109975e5736ee6",
+    "size_bytes": 33905196,
+    "plugin_type": "aeplugin"
+  },
+  {
+    "id": "gpudog-deep-core",
+    "category": "plugin",
+    "name": "GPUDog Deep.core",
+    "version": "1.5.2",
+    "last_updated": "2026-10-31",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/GPUDog_Deep.core-v1.5.2.zip",
+    "sha256": "80221694a223a9d92d66b0817501623ecfb40728beea741f3e5d3c14df0d4e8d",
+    "size_bytes": 8453218,
+    "plugin_type": "aeplugin"
+  },
+  {
+    "id": "gpudog-deep",
+    "category": "extension",
+    "name": "GPUDog Deep",
+    "version": "1.5.2",
+    "last_updated": "2026-10-31",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/GPUDog_Deep_v1.5.2.zip",
+    "sha256": "750a0a945c401c7893149e9ab706fc9d6a0489bcb12112072993f10f9176707a",
+    "size_bytes": 721869
+  },
+  {
+    "id": "glassary",
+    "category": "script",
+    "name": "Glassary",
+    "version": "1.8",
+    "last_updated": "2026-10-31",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Glassary-1.8.zip",
+    "sha256": "c2530ae8b4d200b0b10b830a72e63b46421eddb106e3ea8ef31c544bcc2ba513",
+    "size_bytes": 44487
+  },
+  {
+    "id": "glassary",
+    "category": "plugin",
+    "name": "Glassary",
+    "version": "1.8",
+    "last_updated": "2026-10-31",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Glassary-v1.8.zip",
+    "sha256": "ed30399d536649c25ca85809ca539053043e863f9a26ba9fe9432e5c502ddabf",
+    "size_bytes": 581882,
+    "plugin_type": "aeplugin"
+  },
+  {
+    "id": "metronomematte",
+    "category": "plugin",
+    "name": "MetronomeMatte",
+    "version": "1.0.0",
+    "last_updated": "2026-10-31",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/MetronomeMatte.zip",
+    "sha256": "49e4ed346870757c46abc3847a2f3c91722a669689095951e10e09c8bbf63577",
+    "size_bytes": 223016,
+    "plugin_type": "aeplugin"
+  },
+  {
+    "id": "morph-studio-v1-0-0",
+    "category": "extension",
+    "name": "Morph.Studio.V1.0.0",
+    "version": "1.0.0",
+    "last_updated": "2026-10-31",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Morph.Studio.V1.0.0.zip",
+    "sha256": "783ee20c702c9d8e732fbf1dc0ecffaaf65b2767e9523934e1db60d184f7b557",
+    "size_bytes": 1096966
+  },
+  {
+    "id": "putty-core",
+    "category": "plugin",
+    "name": "Putty.core",
+    "version": "117",
+    "last_updated": "2026-10-31",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Putty.core-117.zip",
+    "sha256": "e7c3b74630185562a506936f2c83c50c29b2cb4344bdf681cd4abbf8335ae51b",
+    "size_bytes": 90426406,
+    "plugin_type": "aeplugin"
+  },
+  {
+    "id": "stash",
+    "category": "script",
+    "name": "Stash",
+    "version": "1.20",
+    "last_updated": "2026-10-31",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Stash-1.20.zip",
+    "sha256": "090881a804c1494c12e9549c2c3b7a2602302e91d218bcf7e1a43dad48f972ac",
+    "size_bytes": 909
+  },
+  {
+    "id": "stash-v1-2-0",
+    "category": "extension",
+    "name": "Stash.V1.2.0",
+    "version": "1.0.0",
+    "last_updated": "2026-10-31",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Stash.V1.2.0.zip",
+    "sha256": "99f7309f05334d6b7b6d89115d8d4fa059fcc7a96624e92707346b884e2d7f8c",
+    "size_bytes": 1042541
+  },
+  {
+    "id": "webmotion-v1-2-0",
+    "category": "extension",
+    "name": "WebMotion.v1.2.0",
+    "version": "1.0.0",
+    "last_updated": "2026-10-31",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/WebMotion.v1.2.0.zip",
+    "sha256": "953bb6444b20630e7608f8baf13a7357ed91f8802ad6bb7e7069dda92828233a",
+    "size_bytes": 107880091
   }
 ]
