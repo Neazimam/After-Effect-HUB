@@ -954,5 +954,16 @@
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/WebMotion.v1.2.0.zip",
     "sha256": "953bb6444b20630e7608f8baf13a7357ed91f8802ad6bb7e7069dda92828233a",
     "size_bytes": 107880091
+  },
+  {
+    "id": "dropletee-core",
+    "category": "plugin",
+    "name": "Dropletee.core",
+    "version": "1.0.14",
+    "last_updated": "2026-10-31",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Dropletee.core-1.0.14.zip",
+    "sha256": "4f66184a457aec013b6a1411af44647abf7e2fe02ad446277bd9b6bdf0aed025",
+    "size_bytes": 4974332,
+    "plugin_type": "aeplugin"
   }
 ]
