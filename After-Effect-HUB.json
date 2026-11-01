@@ -596,15 +596,15 @@
     "plugin_type": "core"
   },
   {
-    "id": "cosmic-core",
+    "id": "cosmic",
     "category": "plugin",
     "name": "Cosmic",
-    "version": "1.0",
-    "last_updated": "2026-10-30",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Cosmic.core-1.0.zip",
-    "sha256": "d0cf0b6c525ba187d166712be1a749bc0bf3f32e62220accb2caf56d56c084b1",
+    "version": "1.0.0",
+    "last_updated": "2026-11-01",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Cosmic.zip",
+    "sha256": "66d9998c2520e11eafe5e1632363d385fc26236b55eaa9eed7bb7becd9814b35",
     "size_bytes": 356270,
-    "plugin_type": "core"
+    "plugin_type": "aeplugin"
   },
   {
     "id": "gaussiansplatting-core",
@@ -746,15 +746,15 @@
     "plugin_type": "core"
   },
   {
-    "id": "sdflow-core",
+    "id": "sdflow",
     "category": "plugin",
     "name": "SDFlow",
-    "version": "1.0",
-    "last_updated": "2026-10-30",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/SDFlow.core-1.0.zip",
-    "sha256": "f2f7c176302ccab82749d360891c21bc0326a6a43c56c380c61f09f4da30d9e0",
-    "size_bytes": 197389,
-    "plugin_type": "core"
+    "version": "1.0.0",
+    "last_updated": "2026-11-01",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/SDFlow.zip",
+    "sha256": "20df998f20bfd9a3bec5d7d1d17f401650b13678198588526ef0cf9eb4e6ef25",
+    "size_bytes": 197388,
+    "plugin_type": "aeplugin"
   },
   {
     "id": "slides-grids",
@@ -1005,5 +1005,100 @@
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/CM_Carousel_Builder.zip",
     "sha256": "a72ba735bd42f288d6827bb673e97b500e176968d9de4ca233eb933b2800de8e",
     "size_bytes": 1763
+  },
+  {
+    "id": "aescripts-textlab-pro",
+    "category": "extension",
+    "name": "Aescripts.Textlab.Pro",
+    "version": "1.0",
+    "last_updated": "2026-11-01",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Aescripts.Textlab.Pro-1.0.zip",
+    "sha256": "d3895f0da55eeb3350d061f0611fbf8668db09c64ed0d301a24b687a21f605ea",
+    "size_bytes": 2236762
+  },
+  {
+    "id": "atlas",
+    "category": "extension",
+    "name": "Atlas",
+    "version": "1.0.1",
+    "last_updated": "2026-11-01",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Atlas.v1.0.1.zip",
+    "sha256": "7d65f4402189f4c69066bb0e6125756b1e35dd448c1d5de8a92c89279b7504d5",
+    "size_bytes": 46979952
+  },
+  {
+    "id": "atlasparticles",
+    "category": "plugin",
+    "name": "AtlasParticles",
+    "version": "1.0.1",
+    "last_updated": "2026-11-01",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/AtlasParticles.core-1.0.1.zip",
+    "sha256": "cfb2f1b00c1f892a21bbf95b4a6429a59442ba10cdfcd91b17d259522fba3878",
+    "size_bytes": 411539,
+    "plugin_type": "core"
+  },
+  {
+    "id": "centerline",
+    "category": "plugin",
+    "name": "CenterLine",
+    "version": "1.0",
+    "last_updated": "2026-11-01",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/CenterLine.core-1.0.zip",
+    "sha256": "adc6e77b492cf4e6d97ac038060f80df66598363f006bda89f45b556e182029c",
+    "size_bytes": 238710,
+    "plugin_type": "core"
+  },
+  {
+    "id": "foldspace",
+    "category": "plugin",
+    "name": "Foldspace",
+    "version": "1.4.2",
+    "last_updated": "2026-11-01",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Foldspace.core-1.4.2.zip",
+    "sha256": "ebc8f82979e337da89e1317c3820e42148a52ce815dfe1541e17e1ae9f9aa033",
+    "size_bytes": 6377847,
+    "plugin_type": "core"
+  },
+  {
+    "id": "lightwrap",
+    "category": "plugin",
+    "name": "LightWrap",
+    "version": "1.0",
+    "last_updated": "2026-11-01",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/LightWrap.core-1.0.zip",
+    "sha256": "49121efffb051dbb97dceedcee81e6d9726b762a34fd36521d5aeab7f4bae4ff",
+    "size_bytes": 464300,
+    "plugin_type": "core"
+  },
+  {
+    "id": "reach-pro",
+    "category": "extension",
+    "name": "Reach.Pro",
+    "version": "3.0.20",
+    "last_updated": "2026-11-01",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Reach.Pro.V3.0.20.zip",
+    "sha256": "49fc7022b02ead2cf8fccdea36882495d360c45c538327509f8c12f74f73c825",
+    "size_bytes": 64116673
+  },
+  {
+    "id": "super-3d",
+    "category": "extension",
+    "name": "Super.3D",
+    "version": "1.4.6",
+    "last_updated": "2026-11-01",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Super.3D.v1.4.6.zip",
+    "sha256": "dea0919ddbefcaa0f1533e4a91d2fc4f6c0a190d5e9abf10fd0610fd46918f36",
+    "size_bytes": 6370193
+  },
+  {
+    "id": "xcloner",
+    "category": "plugin",
+    "name": "xCloner",
+    "version": "1.4.1",
+    "last_updated": "2026-11-01",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/xCloner-1.4.1.zip",
+    "sha256": "f3de81ada1c6e6c2710046de271c617056bc4573ea5c438a69ec72da943ef905",
+    "size_bytes": 205895,
+    "plugin_type": "aeplugin"
   }
 ]
