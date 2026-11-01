@@ -1100,5 +1100,69 @@
     "sha256": "f3de81ada1c6e6c2710046de271c617056bc4573ea5c438a69ec72da943ef905",
     "size_bytes": 205895,
     "plugin_type": "aeplugin"
+  },
+  {
+    "id": "dynamic-shadow-3",
+    "category": "extension",
+    "name": "Dynamic.Shadow.3",
+    "version": "1.2",
+    "last_updated": "2026-11-01",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Dynamic.Shadow.3.v1.2.zip",
+    "sha256": "99bb5af889b425b2b97170cba6e411cb1a6bd3f936964fc6602c076a6d7c3f2b",
+    "size_bytes": 4312540
+  },
+  {
+    "id": "fluid",
+    "category": "plugin",
+    "name": "Fluid",
+    "version": "1.0",
+    "last_updated": "2026-11-01",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Fluid.core-1.0.zip",
+    "sha256": "2d483c86340bc57fe05160a15d346605d9de1be90872fa168b2b6483f64a6ad2",
+    "size_bytes": 272625,
+    "plugin_type": "core"
+  },
+  {
+    "id": "glaze",
+    "category": "plugin",
+    "name": "Glaze",
+    "version": "1.0.9",
+    "last_updated": "2026-11-01",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Glaze.core-1.0.9.zip",
+    "sha256": "0340e0b65f9b3363bc4819f54bb047e288062cd4be71d8806fb6e4b6561d2bb1",
+    "size_bytes": 6522101,
+    "plugin_type": "core"
+  },
+  {
+    "id": "nebulosity",
+    "category": "plugin",
+    "name": "Nebulosity",
+    "version": "1.2.4",
+    "last_updated": "2026-11-01",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Nebulosity.core-1.2.4.zip",
+    "sha256": "4ba702189c7d2a8788ac4aca01b72a4741b64e1a050ff925f422b76041d4a1de",
+    "size_bytes": 890574,
+    "plugin_type": "core"
+  },
+  {
+    "id": "pr-beatedit",
+    "category": "extension",
+    "name": "PR.BeatEdit",
+    "version": "2.2.006",
+    "last_updated": "2026-11-01",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/PR.BeatEdit.v2.2.006.zip",
+    "sha256": "e1630a8adff27d315d5bde82f9f8d3e32f08995012d33a41cb7e545f5df30138",
+    "size_bytes": 10846181
+  },
+  {
+    "id": "stretch",
+    "category": "plugin",
+    "name": "Stretch",
+    "version": "1.0.2",
+    "last_updated": "2026-11-01",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Stretch.core-1.0.2.zip",
+    "sha256": "e96284450fa635e77beaf82165a4721dbd7ee925d1b1376b1379a795c7b75476",
+    "size_bytes": 840033,
+    "plugin_type": "core"
   }
 ]
