@@ -703,16 +703,6 @@
     "size_bytes": 290470641
   },
   {
-    "id": "kease-v2-4-1",
-    "category": "extension",
-    "name": "Kease.V2.4.1",
-    "version": "2.4.1",
-    "last_updated": "2026-10-31",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Kease.V2.4.1.zip",
-    "sha256": "82832def21e29c8a77f2fa1cca4ab7c4f6ae32a04a6046373bb717c3f2192d52",
-    "size_bytes": 1350153
-  },
-  {
     "id": "motionextractor-core",
     "category": "plugin",
     "name": "MotionExtractor",
@@ -1164,5 +1154,66 @@
     "sha256": "e96284450fa635e77beaf82165a4721dbd7ee925d1b1376b1379a795c7b75476",
     "size_bytes": 840033,
     "plugin_type": "core"
+  },
+  {
+    "id": "kease-v2-4-1",
+    "category": "extension",
+    "name": "Kease.V2.4.1",
+    "version": "2.4.2",
+    "last_updated": "2026-11-03",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Kease_V2.4.2.zip",
+    "sha256": "d2c118576e71054dd74bca43d5a84d8b7041114a376226a217e3e96606274375",
+    "size_bytes": 1390496
+  },
+  {
+    "id": "flowpath",
+    "category": "script",
+    "name": "FlowPath",
+    "version": "1.0.0",
+    "last_updated": "2026-11-03",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/FlowPath.zip",
+    "sha256": "dd6304541ea0529945afb5629dc8d453685bdf55016a6ae21d4f401a992ba3a3",
+    "size_bytes": 667365
+  },
+  {
+    "id": "physic3d",
+    "category": "extension",
+    "name": "Physic3D",
+    "version": "1.1.12",
+    "last_updated": "2026-11-03",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Physic3D_1.1.12.zip",
+    "sha256": "0636b496214283590d875ce20a54b9a012ff1cbc028277e54d8e653706429f95",
+    "size_bytes": 3560270
+  },
+  {
+    "id": "pseudo-effect-maker",
+    "category": "extension",
+    "name": "Pseudo Effect Maker",
+    "version": "3.2.1",
+    "last_updated": "2026-11-03",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Pseudo_Effect_Maker_V3.2.1.zip",
+    "sha256": "806a15a44c5d84b2089991923bc653aa12fd1934097c23220b0ebc833b39d688",
+    "size_bytes": 2328849
+  },
+  {
+    "id": "tornpaperedge",
+    "category": "plugin",
+    "name": "TornPaperEdge",
+    "version": "1.1",
+    "last_updated": "2026-11-03",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/TornPaperEdge.core-1.1.zip",
+    "sha256": "f9eea5f3d5e04827835c1629dbb610eee8c56aa32943084237f21cc77e50d2be",
+    "size_bytes": 524596,
+    "plugin_type": "core"
+  },
+  {
+    "id": "vortex",
+    "category": "extension",
+    "name": "Vortex",
+    "version": "1.0.0",
+    "last_updated": "2026-11-03",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Vortex_v1.0.0.zip",
+    "sha256": "4ad2e250db944a4bf05679248f32db65017873e637b9f9a382401ef3b165a2f9",
+    "size_bytes": 1291649
   }
 ]
