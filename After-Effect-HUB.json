@@ -897,7 +897,7 @@
   {
     "id": "morph-studio-v1-0-0",
     "category": "extension",
-    "name": "Morph.Studio.V1.0.0",
+    "name": "Morph.Studio",
     "version": "1.0.0",
     "last_updated": "2026-10-31",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Morph.Studio.V1.0.0.zip",
@@ -1158,7 +1158,7 @@
   {
     "id": "kease-v2-4-1",
     "category": "extension",
-    "name": "Kease.V2.4.1",
+    "name": "Kease",
     "version": "2.4.2",
     "last_updated": "2026-11-03",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Kease_V2.4.2.zip",
