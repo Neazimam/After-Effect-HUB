@@ -1363,5 +1363,79 @@
     "sha256": "aebbe0ab9d2a248a581642f08a59af32bc8f741c8041ee222fda1f91262b3e0a",
     "size_bytes": 167715,
     "plugin_type": "core"
+  },
+  {
+    "id": "burnaway",
+    "category": "plugin",
+    "name": "BurnAway",
+    "version": "1.0.1",
+    "last_updated": "2026-11-06",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/BurnAway.core-1.0.1.zip",
+    "sha256": "0fb4917508d94ac3572bef65b911ebf790f30742ce2db7d65deda1f73d6ad749",
+    "size_bytes": 210898,
+    "plugin_type": "core"
+  },
+  {
+    "id": "inovativeworks1",
+    "category": "plugin",
+    "name": "InovativeWorks1",
+    "version": "0",
+    "last_updated": "2026-11-06",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/InovativeWorks1.0.zip",
+    "sha256": "29dbc41dedd67be90582e73216205134b86a52297344a974ee316b4bd01d05c2",
+    "size_bytes": 166262,
+    "plugin_type": "aeplugin"
+  },
+  {
+    "id": "quickdepth",
+    "category": "plugin",
+    "name": "QuickDepth",
+    "version": "3.3.7",
+    "last_updated": "2026-11-06",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/QuickDepth.core-3.3.7.zip",
+    "sha256": "ee2ea5e47da6eca57b56aef335b591b799fb4f7565cd88b1f4136f4c96b9e1b6",
+    "size_bytes": 2446637,
+    "plugin_type": "core"
+  },
+  {
+    "id": "sandbox",
+    "category": "extension",
+    "name": "Sandbox",
+    "version": "3.1.1",
+    "last_updated": "2026-11-06",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Sandbox_V3.1.1.zip",
+    "sha256": "3311e209d38b0839e72c6b09a1a0d5d5c5fe4955c0d7f179efd1e97c7ae44fa8",
+    "size_bytes": 138543422
+  },
+  {
+    "id": "vocalsplitter",
+    "category": "extension",
+    "name": "VocalSplitter",
+    "version": "0.0.2",
+    "last_updated": "2026-11-06",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/VocalSplitter_v0.0.2.zip",
+    "sha256": "4da2d53d1a076fa61b3c12273b8f5d471383d2990878eb34fbbed0f1cc34ea6d",
+    "size_bytes": 387760568
+  },
+  {
+    "id": "voicelab",
+    "category": "extension",
+    "name": "VoiceLab",
+    "version": "0.0.2",
+    "last_updated": "2026-11-06",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/VoiceLab-0.0.2.zip",
+    "sha256": "fc67b3679ad30aa2de8b301167959f7abd8b6a7351f6816140e8602944241749",
+    "size_bytes": 478606855
+  },
+  {
+    "id": "progradient",
+    "category": "plugin",
+    "name": "proGradient",
+    "version": "1.4.1",
+    "last_updated": "2026-11-06",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/proGradient.core-1.4.1.zip",
+    "sha256": "508e0d066a23389729cff6e148473c019e3950d6614d9dc34e39aae363d3fc15",
+    "size_bytes": 4300921,
+    "plugin_type": "core"
   }
 ]
