@@ -66,26 +66,26 @@
     "size_bytes": 2153830
   },
   {
+    "id": "lightsweeppro",
     "category": "plugin",
-    "name": "LightSweep Pro",
-    "version": "0",
-    "last_updated": "2026-10-31",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/InovativeWorks1.0.zip",
-    "plugin_type": "aeplugin",
-    "description": "",
-    "sha256": "29dbc41dedd67be90582e73216205134b86a52297344a974ee316b4bd01d05c2",
-    "size_bytes": 166262
+    "name": "LightSweepPro",
+    "version": "2.1.2",
+    "last_updated": "2026-11-06",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/LightSweepPro.core-2.1.2.zip",
+    "sha256": "f6bfaf1d5426c758535ddf4f39447ff2b139141eefda6b51af894bac8cf80412",
+    "size_bytes": 229587,
+    "plugin_type": "core"
   },
   {
+    "id": "mbliquidglass",
     "category": "plugin",
     "name": "MBLiquidGlass",
-    "version": "1.0.3",
-    "last_updated": "2026-11-03",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/MBLiquidGlass.zip",
-    "plugin_type": "aeplugin",
-    "description": "",
-    "sha256": "fff1b4d968cedc41c974ca971b25eb4d594ad8e35f3cab0436a77538fb830bc4",
-    "size_bytes": 459192
+    "version": "1.6.0",
+    "last_updated": "2026-11-06",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/MBLiquidGlass.core-1.6.0.zip",
+    "sha256": "2c90fb76e015b74562d208f9cafb1bcbff241707e1df1f09cf8e985fc05ae84b",
+    "size_bytes": 2168204,
+    "plugin_type": "core"
   },
   {
     "category": "plugin",
@@ -661,14 +661,14 @@
     "size_bytes": 7858213
   },
   {
-    "id": "dreamglare-core",
+    "id": "dreamglare",
     "category": "plugin",
     "name": "DreamGlare",
-    "version": "1.0",
-    "last_updated": "2026-10-30",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/DreamGlare.core-1.0.zip",
-    "sha256": "5ba48cc73acc0b23df3bae3c8aa3fa68a2cb8b35cc9411fd557f2cdcdfe76ee0",
-    "size_bytes": 270404,
+    "version": "1.1.1",
+    "last_updated": "2026-11-06",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/DreamGlare.core-1.1.1.zip",
+    "sha256": "4a21aaf178fc6fc3f1996857268ba56927162fec6e2795f65d67cded34f71e8b",
+    "size_bytes": 363381,
     "plugin_type": "core"
   },
   {
@@ -955,16 +955,6 @@
     "size_bytes": 1000080
   },
   {
-    "id": "react",
-    "category": "extension",
-    "name": "React",
-    "version": "3.0.1",
-    "last_updated": "2026-10-31",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/React.3.0.1.zip",
-    "sha256": "ced3cbbc56b8d41a046e5d54d0cd4c370f8faac71e5129e5f72350794d1ffa9e",
-    "size_bytes": 2643932
-  },
-  {
     "id": "cm-carousel-builder",
     "category": "script",
     "name": "CM Carousel Builder",
@@ -1214,6 +1204,164 @@
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Putty.core-v1.1.9.zip",
     "sha256": "bfa305450a515b74f869f360ae18492f1fd8baa0eb73882edfabc8e2c169fc7f",
     "size_bytes": 90455944,
+    "plugin_type": "core"
+  },
+  {
+    "id": "react",
+    "category": "extension",
+    "name": "React",
+    "version": "3.0.3",
+    "last_updated": "2026-11-06",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/React_3.0.3.zip",
+    "sha256": "bc86e2f197c3b17e034707c0a21cdedf89431be65dd270db30b0c9f49ddeb8e3",
+    "size_bytes": 4611493
+  },
+  {
+    "id": "ae-actions",
+    "category": "script",
+    "name": "AE.Actions",
+    "version": "1.1.8",
+    "last_updated": "2026-11-06",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/AE.Actions.V1.1.8.zip",
+    "sha256": "565beef2f481ffed94a11bc0473bc64e9e545e3525333c870a53928e03dab2cb",
+    "size_bytes": 968630
+  },
+  {
+    "id": "calc-ae",
+    "category": "script",
+    "name": "Calc.AE",
+    "version": "1.0.1",
+    "last_updated": "2026-11-06",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Calc.AE-1.0.1.zip",
+    "sha256": "78cca248afda3b377267694b46b6b8dbfe543f87eb6e29462f5bf3612fd06d20",
+    "size_bytes": 701597
+  },
+  {
+    "id": "candlecharts-ae",
+    "category": "script",
+    "name": "CandleCharts.AE",
+    "version": "1.0.0",
+    "last_updated": "2026-11-06",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/CandleCharts.AE.zip",
+    "sha256": "81ae1fba35bf07a4f58e3a54254c06958f3dd9857400a07b130ffe1aae21c14b",
+    "size_bytes": 720365
+  },
+  {
+    "id": "datamosh",
+    "category": "extension",
+    "name": "Datamosh",
+    "version": "2.7.2",
+    "last_updated": "2026-11-06",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Datamosh_v2.7.2.zip",
+    "sha256": "673bacb2de5b985ca5413d92fdbe29c9c48e873d462ca323603b57bdc2baf618",
+    "size_bytes": 108404490
+  },
+  {
+    "id": "ditherdecay-aep",
+    "category": "plugin",
+    "name": "DitherDecay AEP",
+    "version": "1.1.2",
+    "last_updated": "2026-11-06",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/DitherDecay_AEP.core-1.1.2.zip",
+    "sha256": "c13aae25c7c769d9a0af9767d5fceeef4f55e27c09b34bff71b4712e4cf59b13",
+    "size_bytes": 171762,
+    "plugin_type": "core"
+  },
+  {
+    "id": "ether",
+    "category": "plugin",
+    "name": "Ether",
+    "version": "1.0.0",
+    "last_updated": "2026-11-06",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Ether.zip",
+    "sha256": "5cb345bdf89f2f453d67c91175123526962b29a2dab9dec0c58282a7734e6258",
+    "size_bytes": 1446717,
+    "plugin_type": "aeplugin"
+  },
+  {
+    "id": "holographicfoil",
+    "category": "plugin",
+    "name": "HolographicFoil",
+    "version": "1.0.0",
+    "last_updated": "2026-11-06",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/HolographicFoil.core.zip",
+    "sha256": "c9ee2053c3da25bf7f8d7879252baabd73e0414731f7e01d4037de3c6eda44f8",
+    "size_bytes": 262504,
+    "plugin_type": "core"
+  },
+  {
+    "id": "motionamigo",
+    "category": "extension",
+    "name": "MotionAmigo",
+    "version": "1.3.17",
+    "last_updated": "2026-11-06",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/MotionAmigo_V1.3.17.zip",
+    "sha256": "c9672417914562c5755bfb3b4152b5a995a7bd2506b28e82868d3fed625b4fa7",
+    "size_bytes": 42172944
+  },
+  {
+    "id": "motionmosh",
+    "category": "plugin",
+    "name": "MotionMosh",
+    "version": "220",
+    "last_updated": "2026-11-06",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/MotionMosh.core-220.zip",
+    "sha256": "091456f5044e7b282bc533b8c97802528745a869056e0ec67f2aa9594c270d3e",
+    "size_bytes": 4105619,
+    "plugin_type": "core"
+  },
+  {
+    "id": "pixelgalactic",
+    "category": "plugin",
+    "name": "PixelGalactic",
+    "version": "1.3.9",
+    "last_updated": "2026-11-06",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/PixelGalactic.core-1.3.9.zip",
+    "sha256": "48170a75651182af9854c2d22e8b64617ec3376c4b2f899a803c59f43e3e2bd2",
+    "size_bytes": 4458872,
+    "plugin_type": "core"
+  },
+  {
+    "id": "steereo",
+    "category": "plugin",
+    "name": "Steereo",
+    "version": "1.0.3",
+    "last_updated": "2026-11-06",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Steereo.core-1.0.3.zip",
+    "sha256": "ca82fe7ba116eb34ef5510e9b7ad1d580ec395c92d1cb4ef7ce4514cc0da5386",
+    "size_bytes": 4658109,
+    "plugin_type": "core"
+  },
+  {
+    "id": "streakmachine",
+    "category": "plugin",
+    "name": "StreakMachine",
+    "version": "1.0",
+    "last_updated": "2026-11-06",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/StreakMachine.core-1.0.zip",
+    "sha256": "cfaf0757ee52ae7333b197100e72bc7d0b82080c348fba92ce27007ac1d5542d",
+    "size_bytes": 287892,
+    "plugin_type": "core"
+  },
+  {
+    "id": "text-styles-ae",
+    "category": "script",
+    "name": "Text Styles AE",
+    "version": "1.0.0",
+    "last_updated": "2026-11-06",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Text_Styles_AE.zip",
+    "sha256": "780fe271332c310b7fd8a9c8c6bacaaa0dcfcb11584842082911b906e166a2b6",
+    "size_bytes": 690522
+  },
+  {
+    "id": "tonecraft",
+    "category": "plugin",
+    "name": "ToneCraft",
+    "version": "1.0.0",
+    "last_updated": "2026-11-06",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/ToneCraft.core.zip",
+    "sha256": "aebbe0ab9d2a248a581642f08a59af32bc8f741c8041ee222fda1f91262b3e0a",
+    "size_bytes": 167715,
     "plugin_type": "core"
   }
 ]
