@@ -1124,16 +1124,6 @@
     "plugin_type": "core"
   },
   {
-    "id": "kease-v2-4-1",
-    "category": "extension",
-    "name": "Kease",
-    "version": "2.4.2",
-    "last_updated": "2026-11-03",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Kease_V2.4.2.zip",
-    "sha256": "d2c118576e71054dd74bca43d5a84d8b7041114a376226a217e3e96606274375",
-    "size_bytes": 1390496
-  },
-  {
     "id": "flowpath",
     "category": "script",
     "name": "FlowPath",
@@ -1437,5 +1427,35 @@
     "sha256": "508e0d066a23389729cff6e148473c019e3950d6614d9dc34e39aae363d3fc15",
     "size_bytes": 4300921,
     "plugin_type": "core"
+  },
+  {
+    "id": "kease-v2-4-1",
+    "category": "extension",
+    "name": "Kease",
+    "version": "2.4.3",
+    "last_updated": "2026-11-07",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Kease.V2.4.3.zip",
+    "sha256": "6ae3661e8e9d4f08a74119ed368b0083ae650a24df48de2a4828c68936176e11",
+    "size_bytes": 1390489
+  },
+  {
+    "id": "glasser",
+    "category": "script",
+    "name": "Glasser",
+    "version": "1.1",
+    "last_updated": "2026-11-07",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Glasser-1.1.zip",
+    "sha256": "70947317c60c255780493d4b6683e418ab7fb28e802e519830327d9c130a7980",
+    "size_bytes": 4882736
+  },
+  {
+    "id": "versioner",
+    "category": "script",
+    "name": "Versioner",
+    "version": "11",
+    "last_updated": "2026-11-07",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Versioner-11.zip",
+    "sha256": "004d1a7cc4ef0b2197e52ebc19d0b006b94de870e37f20a500118a97e83f788c",
+    "size_bytes": 681365
   }
 ]
