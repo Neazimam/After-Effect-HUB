@@ -1408,16 +1408,6 @@
     "size_bytes": 387760568
   },
   {
-    "id": "voicelab",
-    "category": "extension",
-    "name": "VoiceLab",
-    "version": "0.0.2",
-    "last_updated": "2026-11-06",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/VoiceLab-0.0.2.zip",
-    "sha256": "fc67b3679ad30aa2de8b301167959f7abd8b6a7351f6816140e8602944241749",
-    "size_bytes": 478606855
-  },
-  {
     "id": "progradient",
     "category": "plugin",
     "name": "proGradient",
@@ -1457,5 +1447,67 @@
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Versioner-11.zip",
     "sha256": "004d1a7cc4ef0b2197e52ebc19d0b006b94de870e37f20a500118a97e83f788c",
     "size_bytes": 681365
+  },
+  {
+    "id": "voicelab",
+    "category": "extension",
+    "name": "VoiceLab",
+    "version": "0.0.3",
+    "last_updated": "2026-11-08",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/VoiceLab.v0.0.3.zip",
+    "sha256": "c3ff6594e2b01ecc1fa7286af411145e4744b7208740157c86cf7ee111665fca",
+    "size_bytes": 478659217
+  },
+  {
+    "id": "marbling",
+    "category": "plugin",
+    "name": "Marbling",
+    "version": "1.0",
+    "last_updated": "2026-11-08",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Marbling.core-1.0.zip",
+    "sha256": "10f59308da57ae35ece59906aefed61cb06b2120583e8d70f7098a6e5923bd00",
+    "size_bytes": 264771,
+    "plugin_type": "core"
+  },
+  {
+    "id": "mobar",
+    "category": "extension",
+    "name": "Mobar",
+    "version": "3.7.9",
+    "last_updated": "2026-11-08",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Mobar.3.7.9.zip",
+    "sha256": "ee9a2ae02b4f99eb2beb61b67e5d7db2a8f2a9fbeef8a0e9bbee0c1ea0e189a4",
+    "size_bytes": 10805678
+  },
+  {
+    "id": "pluck",
+    "category": "extension",
+    "name": "Pluck",
+    "version": "1.8.0",
+    "last_updated": "2026-11-08",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Pluck.V1.8.0.zip",
+    "sha256": "16e52dbd0b67edf18d93d4e33ba1033aef074f72495f6aea4b82180bcb993c56",
+    "size_bytes": 1062921
+  },
+  {
+    "id": "universal-audio-2",
+    "category": "extension",
+    "name": "Universal.Audio.2",
+    "version": "2.0.2",
+    "last_updated": "2026-11-08",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Universal.Audio.2.V2.0.2.zip",
+    "sha256": "f314a1a7cbe78cfe4757eb02440f722974681ea16ee412d393a0a1c2afec38ba",
+    "size_bytes": 1669142
+  },
+  {
+    "id": "universalaudiobridge",
+    "category": "plugin",
+    "name": "UniversalAudioBridge",
+    "version": "2.0.2",
+    "last_updated": "2026-11-08",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/UniversalAudioBridge.core-2.0.2.zip",
+    "sha256": "4e2994f7c50b387330b80eee4e6fd8ebb7f4ac36483b27ad9dc1eca9bc726303",
+    "size_bytes": 139245,
+    "plugin_type": "core"
   }
 ]
