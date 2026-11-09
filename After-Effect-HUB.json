@@ -1559,5 +1559,47 @@
     "sha256": "0d38edf1937e8bd78433b7249ca2ad93706139cb282e4dd513dfa59b85639378",
     "size_bytes": 4657622,
     "plugin_type": "aeplugin"
+  },
+  {
+    "id": "edgecontroller",
+    "category": "plugin",
+    "name": "EdgeController",
+    "version": "1.0.0",
+    "last_updated": "2026-11-09",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/EdgeController.zip",
+    "sha256": "46d506aef3a0fb6485865dc605b1e279e5464010773867a354f572aae71260c2",
+    "size_bytes": 150983,
+    "plugin_type": "aeplugin"
+  },
+  {
+    "id": "tuaflow",
+    "category": "extension",
+    "name": "Tuaflow",
+    "version": "1.0.0",
+    "last_updated": "2026-11-09",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Tuaflow.zip",
+    "sha256": "ae7fef4caa64ba230c7525562175c9bb7fac48a53d560b6dc05b565042c8a0ce",
+    "size_bytes": 3152618
+  },
+  {
+    "id": "voxferry",
+    "category": "extension",
+    "name": "VoxFerry",
+    "version": "0.8.0",
+    "last_updated": "2026-11-09",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/VoxFerry_V0.8.0.zip",
+    "sha256": "0733a8c1422c3f94cbf062c4d1c12047f1eb84e43a442e1c50e08700ea7b1314",
+    "size_bytes": 877667
+  },
+  {
+    "id": "zaebects",
+    "category": "plugin",
+    "name": "Zaebects",
+    "version": "2026",
+    "last_updated": "2026-11-09",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Zaebects.core-2026.zip",
+    "sha256": "93da3f9bfdfd88597356d01ce0719d49903b7f19efcc1bb8f266357b2f1fa45e",
+    "size_bytes": 3980390,
+    "plugin_type": "core"
   }
 ]
