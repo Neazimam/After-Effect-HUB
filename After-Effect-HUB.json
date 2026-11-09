@@ -23,7 +23,7 @@
   },
   {
     "category": "plugin",
-    "name": "Irrealix Bundle",
+    "name": "Irrealix Bundle including(Ray Projector,Volna,Reka Grid,Grid Builder,Pro Gradient)",
     "version": "2026",
     "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/irrealix.zip",
@@ -716,7 +716,7 @@
   {
     "id": "rowbyte-core",
     "category": "plugin",
-    "name": "Rowbyte",
+    "name": "Rowbyte Including (Plexus,Fast Bokeh,Bad TV,Stipple)",
     "version": "2026",
     "last_updated": "2026-10-30",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Rowbyte.core-2026.zip",
@@ -1594,7 +1594,7 @@
   {
     "id": "zaebects",
     "category": "plugin",
-    "name": "Zaebects",
+    "name": "Zaebects Including Pixel Sorter",
     "version": "2026",
     "last_updated": "2026-11-09",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Zaebects.core-2026.zip",
