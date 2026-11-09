@@ -1508,5 +1508,56 @@
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Root.V1.1.4.zip",
     "sha256": "c19becfee1ca83ec8ad58bc938734d826e7781af63fbf547d56e5ccc51839322",
     "size_bytes": 3404846
+  },
+  {
+    "id": "3dmodeler",
+    "category": "extension",
+    "name": "3dmodeler",
+    "version": "1.1.0",
+    "last_updated": "2026-11-09",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/3dmodeler.v1.1.0.zip",
+    "sha256": "4070360a2cad3665843ac39eac27a003caae5badbad7f70829d14508e6e3bf4e",
+    "size_bytes": 2042320
+  },
+  {
+    "id": "align-pro",
+    "category": "script",
+    "name": "Align.Pro",
+    "version": "1.1.0",
+    "last_updated": "2026-11-09",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Align.Pro-1.1.0.zip",
+    "sha256": "6aff50859f4bb08d93897f3c1ec83b6bb4077f60745dad356768e9f89a7fb841",
+    "size_bytes": 936764
+  },
+  {
+    "id": "arabictext",
+    "category": "script",
+    "name": "ArabicText",
+    "version": "1.0.0",
+    "last_updated": "2026-11-09",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/ArabicText.zip",
+    "sha256": "ec6aa11baa3eb0f34e8bb16f2cb3facee5727518c192ac8af1f4ea8f4788e6c7",
+    "size_bytes": 2017
+  },
+  {
+    "id": "rapid-reel-composer",
+    "category": "script",
+    "name": "Rapid.Reel.Composer",
+    "version": "1.0.0",
+    "last_updated": "2026-11-09",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Rapid.Reel.Composer.zip",
+    "sha256": "0c4b00f6c6a66af954cd0853e96cb616a26980204a716a1d34c3f9ce7c685ebb",
+    "size_bytes": 888924
+  },
+  {
+    "id": "shadow-studio-3",
+    "category": "plugin",
+    "name": "Shadow.Studio.3",
+    "version": "1.0.5",
+    "last_updated": "2026-11-09",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Shadow.Studio.3-1.0.5.zip",
+    "sha256": "0d38edf1937e8bd78433b7249ca2ad93706139cb282e4dd513dfa59b85639378",
+    "size_bytes": 4657622,
+    "plugin_type": "aeplugin"
   }
 ]
