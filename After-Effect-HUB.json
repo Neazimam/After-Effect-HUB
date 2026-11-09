@@ -1049,17 +1049,6 @@
     "size_bytes": 6370193
   },
   {
-    "id": "xcloner",
-    "category": "plugin",
-    "name": "xCloner",
-    "version": "1.4.1",
-    "last_updated": "2026-11-01",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/xCloner-1.4.1.zip",
-    "sha256": "f3de81ada1c6e6c2710046de271c617056bc4573ea5c438a69ec72da943ef905",
-    "size_bytes": 205895,
-    "plugin_type": "aeplugin"
-  },
-  {
     "id": "dynamic-shadow-3",
     "category": "extension",
     "name": "Dynamic.Shadow.3",
@@ -1509,5 +1498,15 @@
     "sha256": "4e2994f7c50b387330b80eee4e6fd8ebb7f4ac36483b27ad9dc1eca9bc726303",
     "size_bytes": 139245,
     "plugin_type": "core"
+  },
+  {
+    "id": "root",
+    "category": "extension",
+    "name": "Root",
+    "version": "1.1.4",
+    "last_updated": "2026-11-09",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Root.V1.1.4.zip",
+    "sha256": "c19becfee1ca83ec8ad58bc938734d826e7781af63fbf547d56e5ccc51839322",
+    "size_bytes": 3404846
   }
 ]
