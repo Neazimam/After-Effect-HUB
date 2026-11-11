@@ -183,16 +183,6 @@
   },
   {
     "category": "extension",
-    "name": "MagicMorphing",
-    "version": "1.0.0",
-    "last_updated": "2026-11-03",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/MagicMorphing_V1.0.0.zip",
-    "description": "",
-    "sha256": "ed8fed30f68ca9522c0731243ea6242d12f30943659291e31cb1f1af7d0715a3",
-    "size_bytes": 1064864
-  },
-  {
-    "category": "extension",
     "name": "Break.It",
     "version": "1.6.0",
     "last_updated": "2026-11-03",
@@ -1258,17 +1248,6 @@
     "plugin_type": "aeplugin"
   },
   {
-    "id": "holographicfoil",
-    "category": "plugin",
-    "name": "HolographicFoil",
-    "version": "1.0.0",
-    "last_updated": "2026-11-06",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/HolographicFoil.core.zip",
-    "sha256": "c9ee2053c3da25bf7f8d7879252baabd73e0414731f7e01d4037de3c6eda44f8",
-    "size_bytes": 262504,
-    "plugin_type": "core"
-  },
-  {
     "id": "motionamigo",
     "category": "extension",
     "name": "MotionAmigo",
@@ -1601,5 +1580,88 @@
     "sha256": "93da3f9bfdfd88597356d01ce0719d49903b7f19efcc1bb8f266357b2f1fa45e",
     "size_bytes": 3980390,
     "plugin_type": "core"
+  },
+  {
+    "category": "extension",
+    "name": "MagicMorphing",
+    "version": "1.2.0",
+    "last_updated": "2026-11-11",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/MagicMorphing.V1.2.0.zip",
+    "description": "",
+    "sha256": "c8a941ccf3febd4870dbdb1f2154c94b1514b5862bd7a961ab422e96770fe190",
+    "size_bytes": 10703571
+  },
+  {
+    "id": "holographicfoil",
+    "category": "plugin",
+    "name": "HolographicFoil",
+    "version": "1.1",
+    "last_updated": "2026-11-11",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/HolographicFoil.core-1.1.zip",
+    "sha256": "ddddf69f31ccfb785fa6482525689b251363d761d7995690128e07cbed90fbb2",
+    "size_bytes": 262494,
+    "plugin_type": "core"
+  },
+  {
+    "id": "aintrailers-character-assistant",
+    "category": "script",
+    "name": "AinTrailers Character Assistant",
+    "version": "3.2.5",
+    "last_updated": "2026-11-11",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/AinTrailers-Character-Assistant-3.2.5.zip",
+    "sha256": "dd275524c1856482e75b30d64d5aeca8fac6794bbce925d0d567e2dcb869c94d",
+    "size_bytes": 12340771
+  },
+  {
+    "id": "gpuresize2",
+    "category": "plugin",
+    "name": "GPUResize2",
+    "version": "2.0",
+    "last_updated": "2026-11-11",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/GPUResize2.core-2.0.zip",
+    "sha256": "16420017fc03463adb87d1345a8dc25c429ef369fa1f37306cfa8535ea75a16d",
+    "size_bytes": 2906906,
+    "plugin_type": "core"
+  },
+  {
+    "id": "instantrecipe",
+    "category": "extension",
+    "name": "InstantRecipe",
+    "version": "1.0.1",
+    "last_updated": "2026-11-11",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/InstantRecipe.V1.0.1.zip",
+    "sha256": "5af54ad8059ed5e8198376e86e1ba847bcf7f50392e1d6f271ed068392f09c91",
+    "size_bytes": 2541952
+  },
+  {
+    "id": "meshmorph",
+    "category": "plugin",
+    "name": "MeshMorph",
+    "version": "1.4",
+    "last_updated": "2026-11-11",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/MeshMorph.core-1.4.zip",
+    "sha256": "82ca2a9f04f0b42e2f5b88c79c02758944cc44af7c349c283b0aad94c2a1e8aa",
+    "size_bytes": 268268,
+    "plugin_type": "core"
+  },
+  {
+    "id": "mini-bread",
+    "category": "extension",
+    "name": "Mini.Bread",
+    "version": "1.0.0",
+    "last_updated": "2026-11-11",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Mini.Bread.V1.0.0.zip",
+    "sha256": "18cc36263f2de8a75fcf459c29c8c32be15d6dc6a343a68001c54c86a89afa35",
+    "size_bytes": 39656123
+  },
+  {
+    "id": "summon",
+    "category": "extension",
+    "name": "Summon",
+    "version": "1.0.1",
+    "last_updated": "2026-11-11",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Summon.v1.0.1.zip",
+    "sha256": "360269258aaa1a160ac2c6d3dec2e9ba3acaaa9edcfa3c79adf37f9755393d77",
+    "size_bytes": 1355547
   }
 ]
