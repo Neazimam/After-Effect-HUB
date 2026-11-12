@@ -641,16 +641,6 @@
     "plugin_type": "core"
   },
   {
-    "id": "cyclops-4-0-0",
-    "category": "extension",
-    "name": "Cyclops",
-    "version": "4.0.0",
-    "last_updated": "2026-11-03",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Cyclops.4.0.0.zip",
-    "sha256": "08e649a2a3714cd363bfddba151b58ce353ede3d8730967fef906b998d844e53",
-    "size_bytes": 7858213
-  },
-  {
     "id": "dreamglare",
     "category": "plugin",
     "name": "DreamGlare",
@@ -1739,5 +1729,15 @@
     "sha256": "32eff12ed8a5dc0881bb759b17c9f8c9376540557a76cabf0651cef8aa28b78e",
     "size_bytes": 2005088,
     "plugin_type": "core"
+  },
+  {
+    "id": "cyclops-4-0-0",
+    "category": "extension",
+    "name": "Cyclops",
+    "version": "4.0.1",
+    "last_updated": "2026-11-12",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Cyclops-4.0.1.zip",
+    "sha256": "19e662af28a93a83cbe586dc6a2808b63ba582d58abce389adf0e2d21622fdd6",
+    "size_bytes": 7973415
   }
 ]
