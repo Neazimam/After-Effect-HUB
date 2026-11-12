@@ -884,14 +884,14 @@
     "size_bytes": 107880091
   },
   {
-    "id": "dropletee-core",
+    "id": "dropletee",
     "category": "plugin",
     "name": "Dropletee",
-    "version": "1.0.14",
-    "last_updated": "2026-10-31",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Dropletee.core-1.0.14.zip",
-    "sha256": "4f66184a457aec013b6a1411af44647abf7e2fe02ad446277bd9b6bdf0aed025",
-    "size_bytes": 4974332,
+    "version": "1.0.15",
+    "last_updated": "2026-11-12",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Dropletee.core-1.0.15.zip",
+    "sha256": "48e99bd39ab65b8d678bca01d908677d3e966301f3b0f99313e2bf3cb7310364",
+    "size_bytes": 4980794,
     "plugin_type": "core"
   },
   {
@@ -1346,17 +1346,6 @@
     "size_bytes": 387760568
   },
   {
-    "id": "progradient",
-    "category": "plugin",
-    "name": "proGradient",
-    "version": "1.4.1",
-    "last_updated": "2026-11-06",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/proGradient.core-1.4.1.zip",
-    "sha256": "508e0d066a23389729cff6e148473c019e3950d6614d9dc34e39aae363d3fc15",
-    "size_bytes": 4300921,
-    "plugin_type": "core"
-  },
-  {
     "id": "kease-v2-4-1",
     "category": "extension",
     "name": "Kease",
@@ -1739,5 +1728,36 @@
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Cyclops-4.0.1.zip",
     "sha256": "19e662af28a93a83cbe586dc6a2808b63ba582d58abce389adf0e2d21622fdd6",
     "size_bytes": 7973415
+  },
+  {
+    "id": "progradient",
+    "category": "plugin",
+    "name": "proGradient",
+    "version": "1.4.2",
+    "last_updated": "2026-11-12",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/proGradient.core-1.4.2.zip",
+    "sha256": "2199cb1fb7ad45b126128a2a4cb2c6b02e1fd41928b905a84bb8cd9b6aecf899",
+    "size_bytes": 4308087,
+    "plugin_type": "core"
+  },
+  {
+    "id": "comp-resizer",
+    "category": "extension",
+    "name": "Comp Resizer",
+    "version": "1.2.0",
+    "last_updated": "2026-11-12",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Comp_Resizer_v1.2.0.zip",
+    "sha256": "6b7d0e62a8e7f406a73a0c9876f394e58c1baec77b78d794b299f125aee5f89b",
+    "size_bytes": 930405
+  },
+  {
+    "id": "face-3d",
+    "category": "extension",
+    "name": "Face 3D",
+    "version": "2.0.1",
+    "last_updated": "2026-11-12",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Face_3D_v2.0.1.zip",
+    "sha256": "ea61cd0bab59ce734168b44865860ffd5b07d83dba96914ec8b269106847f500",
+    "size_bytes": 2353764
   }
 ]
