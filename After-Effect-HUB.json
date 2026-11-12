@@ -884,26 +884,6 @@
     "size_bytes": 1096966
   },
   {
-    "id": "stash",
-    "category": "script",
-    "name": "Stash",
-    "version": "1.20",
-    "last_updated": "2026-10-31",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Stash-1.20.zip",
-    "sha256": "090881a804c1494c12e9549c2c3b7a2602302e91d218bcf7e1a43dad48f972ac",
-    "size_bytes": 909
-  },
-  {
-    "id": "stash-v1-2-0",
-    "category": "extension",
-    "name": "Stash",
-    "version": "1.2.0",
-    "last_updated": "2026-11-03",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Stash.V1.2.0.zip",
-    "sha256": "99f7309f05334d6b7b6d89115d8d4fa059fcc7a96624e92707346b884e2d7f8c",
-    "size_bytes": 1042541
-  },
-  {
     "id": "webmotion-v1-2-0",
     "category": "extension",
     "name": "WebMotion",
@@ -1694,6 +1674,70 @@
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/memleak.core-1.2.1.zip",
     "sha256": "dfc1a60729f70ecc22fc487c4c1863573436219bd8db53339b08f34fb8da3dd3",
     "size_bytes": 1685036,
+    "plugin_type": "core"
+  },
+  {
+    "id": "stash",
+    "category": "script",
+    "name": "Stash",
+    "version": "1.2.1",
+    "last_updated": "2026-11-12",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Stash.V1.2.1.zip",
+    "sha256": "3f55ef7390d431c033e05a85f08c7daf5744fae71fbac13fc7f59c269b762958",
+    "size_bytes": 1081963
+  },
+  {
+    "id": "crucible",
+    "category": "plugin",
+    "name": "Crucible",
+    "version": "1.0.2",
+    "last_updated": "2026-11-12",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Crucible-v1.0.2.zip",
+    "sha256": "da5791a06997cfae0f21f6493bec951f83ff920e21a017797f6211698f8d5da9",
+    "size_bytes": 38269862,
+    "plugin_type": "aeplugin"
+  },
+  {
+    "id": "falloff",
+    "category": "plugin",
+    "name": "Falloff",
+    "version": "1.0",
+    "last_updated": "2026-11-12",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Falloff.core-1.0.zip",
+    "sha256": "27b80ace19483bdf14c16ee2db14742b64ead45377df6cea85e9447df0112611",
+    "size_bytes": 219511,
+    "plugin_type": "core"
+  },
+  {
+    "id": "rxxr",
+    "category": "plugin",
+    "name": "RXXR",
+    "version": "1.2",
+    "last_updated": "2026-11-12",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/RXXR.core-1.2.zip",
+    "sha256": "6dc2404786b29cc67ca2b7d271696f0ffac41fc2db5a2f4f396bf1d38c04e625",
+    "size_bytes": 441793,
+    "plugin_type": "core"
+  },
+  {
+    "id": "reveal-in-stash",
+    "category": "script",
+    "name": "Reveal.in.Stash",
+    "version": "1.0",
+    "last_updated": "2026-11-12",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Reveal.in.Stash-1.0.zip",
+    "sha256": "bcf09ebccb544cc2f3c2402d9b218d04744fb70bdadd20b58b17fba664de1b18",
+    "size_bytes": 909
+  },
+  {
+    "id": "proradiance",
+    "category": "plugin",
+    "name": "proRadiance",
+    "version": "1.0",
+    "last_updated": "2026-11-12",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/proRadiance.core-1.0.zip",
+    "sha256": "32eff12ed8a5dc0881bb759b17c9f8c9376540557a76cabf0651cef8aa28b78e",
+    "size_bytes": 2005088,
     "plugin_type": "core"
   }
 ]
