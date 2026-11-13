@@ -55,17 +55,6 @@
     "size_bytes": 13863382
   },
   {
-    "category": "plugin",
-    "name": "Glasswork",
-    "version": "1.2.0",
-    "last_updated": "2026-11-03",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Glasswork.zip",
-    "plugin_type": "core",
-    "description": "",
-    "sha256": "5361212d614d178a2d9b39db3a52a5b0d248e21cf4ca7a35b3fb3856502f9285",
-    "size_bytes": 2153830
-  },
-  {
     "id": "lightsweeppro",
     "category": "plugin",
     "name": "LightSweepPro",
@@ -483,16 +472,6 @@
   },
   {
     "category": "script",
-    "name": "EmojiKit",
-    "version": "1.0",
-    "last_updated": "2026-11-03",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/EmojiKit.zip",
-    "description": "",
-    "sha256": "fd3a4b108d3ef47ad6b8b24d47e6ba974bd77f5f8110aa8f7a23504f0203102d",
-    "size_bytes": 2557658
-  },
-  {
-    "category": "script",
     "name": "Control.LMFX",
     "version": "1.0",
     "last_updated": "2026-11-03",
@@ -530,28 +509,6 @@
     "description": "",
     "sha256": "ecf09b05411afe5278469742d09f5ead6076b66478e906ba45e45975fed8439a",
     "size_bytes": 838089
-  },
-  {
-    "id": "displacerpro",
-    "category": "plugin",
-    "name": "DisplacerPro",
-    "version": "1.0.0",
-    "last_updated": "2026-10-30",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/DisplacerPro.zip",
-    "sha256": "f9a8e55ddfbc2e1305c529035f251f0ba4df07ce9b383265f32e57e9273462dc",
-    "size_bytes": 103543,
-    "plugin_type": "aeplugin"
-  },
-  {
-    "id": "inkbloom",
-    "category": "plugin",
-    "name": "InkBloom",
-    "version": "1.0.0",
-    "last_updated": "2026-10-30",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/InkBloom.zip",
-    "sha256": "85b91ed31c6df2f635804c436257334dbe0ea17e30d31957d650bd490625a282",
-    "size_bytes": 171738,
-    "plugin_type": "aeplugin"
   },
   {
     "id": "newton",
@@ -1759,5 +1716,142 @@
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Face_3D_v2.0.1.zip",
     "sha256": "ea61cd0bab59ce734168b44865860ffd5b07d83dba96914ec8b269106847f500",
     "size_bytes": 2353764
+  },
+  {
+    "category": "plugin",
+    "name": "Glasswork",
+    "version": "1.2",
+    "last_updated": "2026-11-13",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Glasswork-1.2.zip",
+    "plugin_type": "core",
+    "description": "",
+    "sha256": "5361212d614d178a2d9b39db3a52a5b0d248e21cf4ca7a35b3fb3856502f9285",
+    "size_bytes": 2153830
+  },
+  {
+    "category": "script",
+    "name": "EmojiKit",
+    "version": "1.0",
+    "last_updated": "2026-11-13",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/EmojiKit-1.0.zip",
+    "description": "",
+    "sha256": "8af1153218699af7418f45e6220ec7734d1ca05b908dd3a3657ceee13f7f9be5",
+    "size_bytes": 2557658
+  },
+  {
+    "id": "displacerpro",
+    "category": "plugin",
+    "name": "DisplacerPro",
+    "version": "1.6.1",
+    "last_updated": "2026-11-13",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/DisplacerPro-1.6.1.zip",
+    "sha256": "f9a8e55ddfbc2e1305c529035f251f0ba4df07ce9b383265f32e57e9273462dc",
+    "size_bytes": 103543,
+    "plugin_type": "aeplugin"
+  },
+  {
+    "id": "inkbloom",
+    "category": "plugin",
+    "name": "InkBloom",
+    "version": "1.1",
+    "last_updated": "2026-11-13",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/InkBloom-1.1.zip",
+    "sha256": "be14a79dc8460fdfa7518fbccb3f719c7f422ab397b1a28489d40cb1cf98d917",
+    "size_bytes": 171738,
+    "plugin_type": "aeplugin"
+  },
+  {
+    "id": "anubis-revived",
+    "category": "extension",
+    "name": "Anubis.Revived",
+    "version": "1.1.12",
+    "last_updated": "2026-11-13",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Anubis.Revived-1.1.12.zip",
+    "sha256": "d46119c20ea307a9f26e5a33dc93734a4a54605e0f1b8cab7f3020bce82d93e1",
+    "size_bytes": 84404494
+  },
+  {
+    "id": "aurum",
+    "category": "plugin",
+    "name": "Aurum",
+    "version": "1.0",
+    "last_updated": "2026-11-13",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Aurum-1.0.zip",
+    "sha256": "58cb72c5479386de72d0b18c6a4ed06b6dc9f4e2c3a0468c9886d4448333de54",
+    "size_bytes": 2614366,
+    "plugin_type": "aeplugin"
+  },
+  {
+    "id": "autocrop",
+    "category": "script",
+    "name": "AutoCrop",
+    "version": "3.2.1.1",
+    "last_updated": "2026-11-13",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/AutoCrop-3.2.1.1.zip",
+    "sha256": "a69c5bf3ae7747779bf36d18dbdb4fd7dde046e66bcde603a63b2a5b335fb8c5",
+    "size_bytes": 5962
+  },
+  {
+    "id": "auto-crop",
+    "category": "plugin",
+    "name": "Auto Crop",
+    "version": "3.2.1.1",
+    "last_updated": "2026-11-13",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Auto_Crop.core-3.2.1.1.zip",
+    "sha256": "a0596111bb2b30cfdfdf54fd6332fab86ce4503c65c85474e18736471984f164",
+    "size_bytes": 155276,
+    "plugin_type": "core"
+  },
+  {
+    "id": "colorflow",
+    "category": "script",
+    "name": "ColorFlow",
+    "version": "1.5.5",
+    "last_updated": "2026-11-13",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/ColorFlow-1.5.5.zip",
+    "sha256": "baecb3a04fca779a559fc205464dc5affaaefa11ff424151538220b7d124333b",
+    "size_bytes": 1850617
+  },
+  {
+    "id": "glitchify",
+    "category": "plugin",
+    "name": "Glitchify",
+    "version": "1.0.0",
+    "last_updated": "2026-11-13",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Glitchify-1.0.0.zip",
+    "sha256": "7e6db3628e3116ca3c34bee6413fef23e746c655493b072e066772d506106019",
+    "size_bytes": 328438,
+    "plugin_type": "aeplugin"
+  },
+  {
+    "id": "mo3d",
+    "category": "plugin",
+    "name": "MO3D",
+    "version": "1.0.0",
+    "last_updated": "2026-11-13",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/MO3D.zip",
+    "sha256": "4297b8d386fd662d07a59d95021557a773a1b99240554255762c1d5a12104b36",
+    "size_bytes": 12089413,
+    "plugin_type": "aeplugin"
+  },
+  {
+    "id": "toothpaste",
+    "category": "extension",
+    "name": "ToothPaste",
+    "version": "1.3.0",
+    "last_updated": "2026-11-13",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/ToothPaste.v1.3.0.zip",
+    "sha256": "0af8e97bd0c2fb0dec1f466f029f857f576acdf77da24cc1719ca36077a526d0",
+    "size_bytes": 4953625
+  },
+  {
+    "id": "fx-magicoin",
+    "category": "script",
+    "name": "fx magicoin",
+    "version": "1.0.0",
+    "last_updated": "2026-11-13",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/fx_magicoin.zip",
+    "sha256": "b707239c87959c121fac0958527f37430fec1f877134a62399e74ad6ae0f7104",
+    "size_bytes": 103355
   }
 ]
