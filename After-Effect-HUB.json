@@ -1853,5 +1853,60 @@
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/fx_magicoin.zip",
     "sha256": "b707239c87959c121fac0958527f37430fec1f877134a62399e74ad6ae0f7104",
     "size_bytes": 103355
+  },
+  {
+    "id": "aibowgrid",
+    "category": "plugin",
+    "name": "AiBowGrid",
+    "version": "1.0",
+    "last_updated": "2026-11-15",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/AiBowGrid.core-1.0.zip",
+    "sha256": "8104d90e6e263f09fed70f19e0297acb344dbaf1a78720d5203c70cfe9859976",
+    "size_bytes": 160352,
+    "plugin_type": "core"
+  },
+  {
+    "id": "aibowimpactburst",
+    "category": "plugin",
+    "name": "AiBowImpactBurst",
+    "version": "1.0",
+    "last_updated": "2026-11-15",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/AiBowImpactBurst.core-1.0.zip",
+    "sha256": "2d40623f45235b440148decbedb236ce5c2fe731ffde8b9eace6972e8e5580ba",
+    "size_bytes": 170836,
+    "plugin_type": "core"
+  },
+  {
+    "id": "bao-mask-gradient",
+    "category": "plugin",
+    "name": "BAO Mask gradient",
+    "version": "1.0",
+    "last_updated": "2026-11-15",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/BAO_Mask_gradient.core-1.0.zip",
+    "sha256": "471fc840edb3f7f84fc39941a9a9ff644979517567c809e25ae7b2c63ac0fb15",
+    "size_bytes": 554492,
+    "plugin_type": "core"
+  },
+  {
+    "id": "scaleup",
+    "category": "plugin",
+    "name": "ScaleUp",
+    "version": "1.4.6",
+    "last_updated": "2026-11-15",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/ScaleUp.core-1.4.6.zip",
+    "sha256": "44544fb8bcd417781d47370581d4a76188d6ff1302ee8997903355fc90803a79",
+    "size_bytes": 83155229,
+    "plugin_type": "core"
+  },
+  {
+    "id": "shutter",
+    "category": "plugin",
+    "name": "Shutter",
+    "version": "4.8.0",
+    "last_updated": "2026-11-15",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Shutter.core-4.8.0.zip",
+    "sha256": "38861b652f77cb40c0cf01d6a557b30cc82e0fa7bbabe9349b79998db6fdddcb",
+    "size_bytes": 74270597,
+    "plugin_type": "core"
   }
 ]
