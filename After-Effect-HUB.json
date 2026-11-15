@@ -66,17 +66,6 @@
     "plugin_type": "core"
   },
   {
-    "id": "mbliquidglass",
-    "category": "plugin",
-    "name": "MBLiquidGlass",
-    "version": "1.6.0",
-    "last_updated": "2026-11-06",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/MBLiquidGlass.core-1.6.0.zip",
-    "sha256": "2c90fb76e015b74562d208f9cafb1bcbff241707e1df1f09cf8e985fc05ae84b",
-    "size_bytes": 2168204,
-    "plugin_type": "core"
-  },
-  {
     "category": "plugin",
     "name": "PixelSorter",
     "version": "4.2.3",
@@ -935,17 +924,6 @@
     "plugin_type": "core"
   },
   {
-    "id": "lightwrap",
-    "category": "plugin",
-    "name": "LightWrap",
-    "version": "1.0",
-    "last_updated": "2026-11-01",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/LightWrap.core-1.0.zip",
-    "sha256": "49121efffb051dbb97dceedcee81e6d9726b762a34fd36521d5aeab7f4bae4ff",
-    "size_bytes": 464300,
-    "plugin_type": "core"
-  },
-  {
     "id": "reach-pro",
     "category": "extension",
     "name": "Reach.Pro",
@@ -1033,10 +1011,10 @@
     "id": "flowpath",
     "category": "script",
     "name": "FlowPath",
-    "version": "1.0.0",
-    "last_updated": "2026-11-03",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/FlowPath.zip",
-    "sha256": "dd6304541ea0529945afb5629dc8d453685bdf55016a6ae21d4f401a992ba3a3",
+    "version": "1.6",
+    "last_updated": "2026-11-15",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/FlowPath-1.6.zip",
+    "sha256": "64e936307d6b3f937971acfd9163fe7b26494fdf1686f088eee61b93e8cb7b09",
     "size_bytes": 667365
   },
   {
@@ -1908,5 +1886,246 @@
     "sha256": "38861b652f77cb40c0cf01d6a557b30cc82e0fa7bbabe9349b79998db6fdddcb",
     "size_bytes": 74270597,
     "plugin_type": "core"
+  },
+  {
+    "id": "mbliquidglass",
+    "category": "plugin",
+    "name": "MBLiquidGlass",
+    "version": "1.6",
+    "last_updated": "2026-11-15",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/MBLiquidGlass.core-1.6.zip",
+    "sha256": "f2614c5bf70e3b1bff57382dc1ba2bbbdcc74c6f658770f63ed47f6912d33f2d",
+    "size_bytes": 2168204,
+    "plugin_type": "core"
+  },
+  {
+    "id": "lightwrap",
+    "category": "plugin",
+    "name": "LightWrap",
+    "version": "1.1.1",
+    "last_updated": "2026-11-15",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/LightWrap.core-1.1.1.zip",
+    "sha256": "db9dee96317a3fe3ec8a413afb76e978b66fb09c1962427f427f132b2e26b050",
+    "size_bytes": 460960,
+    "plugin_type": "core"
+  },
+  {
+    "id": "ae-ai-script",
+    "category": "extension",
+    "name": "AE AI.script",
+    "version": "1.0.0",
+    "last_updated": "2026-11-15",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/AE-AI.script.zip",
+    "sha256": "498a7bf6a0c4e9a9d4afe5da53e96f545b83f8fd7888ec65257fa1947ec2b024",
+    "size_bytes": 1452804
+  },
+  {
+    "id": "ae-gpt",
+    "category": "extension",
+    "name": "AE.GPT",
+    "version": "1.4.0",
+    "last_updated": "2026-11-15",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/AE.GPT.V1.4.0.zip",
+    "sha256": "97b4dd479ba99bdf1f5e6127a4d7b357dd77ea3cf0dc91263e2a0028c4cdbfd7",
+    "size_bytes": 6577146
+  },
+  {
+    "id": "aibow-manga-koma",
+    "category": "script",
+    "name": "AiBow.Manga.Koma",
+    "version": "1.0.0",
+    "last_updated": "2026-11-15",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/AiBow.Manga.Koma.zip",
+    "sha256": "8d358ec54860280507fa9e26af870fac8b2f7428edfe093bf499e8b0526c4d3b",
+    "size_bytes": 682477
+  },
+  {
+    "id": "color-shift",
+    "category": "plugin",
+    "name": "Color.Shift",
+    "version": "1.21",
+    "last_updated": "2026-11-15",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Color.Shift.core-1.21.zip",
+    "sha256": "d3d55f4ea816d0d89d7ac62100f6f6616c98887cc6b4ad3e782c0751d517b9c3",
+    "size_bytes": 1594974,
+    "plugin_type": "core"
+  },
+  {
+    "id": "denoiseai",
+    "category": "plugin",
+    "name": "DenoiseAI",
+    "version": "1.0",
+    "last_updated": "2026-11-15",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/DenoiseAI.core-1.0.zip",
+    "sha256": "452a5192001c251192cd58d6948a500387cad3284b94be12c50948eb8e9f2789",
+    "size_bytes": 33362862,
+    "plugin_type": "core"
+  },
+  {
+    "id": "feedbackstudio",
+    "category": "plugin",
+    "name": "FeedbackStudio",
+    "version": "1.3.0",
+    "last_updated": "2026-11-15",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/FeedbackStudio-1.3.0.zip",
+    "sha256": "96b9940cb6bce5b08c701483b67c701d0973c70437f8ccc946b5aba91a16907d",
+    "size_bytes": 229266,
+    "plugin_type": "aeplugin"
+  },
+  {
+    "id": "folder-fanatc",
+    "category": "extension",
+    "name": "Folder.Fanatc",
+    "version": "1.1.3",
+    "last_updated": "2026-11-15",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Folder.Fanatc.v1.1.3.zip",
+    "sha256": "4381cd9d5f47f1011e575fb215ca31bd94ffc6b9df44b3da9f505b11802f41e9",
+    "size_bytes": 4127680
+  },
+  {
+    "id": "icondock",
+    "category": "extension",
+    "name": "IconDock",
+    "version": "1.04",
+    "last_updated": "2026-11-15",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/IconDock.V1.04.zip",
+    "sha256": "3e697e9ee40051c2d2de25ab2acfa57d4f9999a6f0e9510a983aa61e2c3ac2ed",
+    "size_bytes": 879384
+  },
+  {
+    "id": "mate-for-ae",
+    "category": "extension",
+    "name": "MATE.for.AE",
+    "version": "2.5.0",
+    "last_updated": "2026-11-15",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/MATE.for.AE.v2.5.0.zip",
+    "sha256": "284307edb77917a0c4ed849d39fbd1c9dad36d31716aa9be78bd615be53e0532",
+    "size_bytes": 1849967
+  },
+  {
+    "id": "quick-menu",
+    "category": "script",
+    "name": "Quick.Menu",
+    "version": "3.1.0",
+    "last_updated": "2026-11-15",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Quick.Menu-3.1.0.zip",
+    "sha256": "484f4d44036d13e8345c61bbd6921a10d5e48a8127a69f4ba3c930f58235e195",
+    "size_bytes": 1219759
+  },
+  {
+    "id": "recursivemosaic",
+    "category": "plugin",
+    "name": "RecursiveMosaic",
+    "version": "1.5.0",
+    "last_updated": "2026-11-15",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/RecursiveMosaic.core-1.5.0.zip",
+    "sha256": "433241b0029b25dbe0c530b1b1b21d328aebadbeb1fd16de2fb97303d7f9f72f",
+    "size_bytes": 480194,
+    "plugin_type": "core"
+  },
+  {
+    "id": "relay",
+    "category": "extension",
+    "name": "Relay",
+    "version": "1.0",
+    "last_updated": "2026-11-15",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Relay-1.0.zip",
+    "sha256": "b659efa6635557b0498509411a3ea8c4cae315622c2368962749fcc5086fa415",
+    "size_bytes": 1651711
+  },
+  {
+    "id": "relay",
+    "category": "plugin",
+    "name": "Relay",
+    "version": "1.0.0",
+    "last_updated": "2026-11-15",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Relay_.zip",
+    "sha256": "7c83d19e169a1bf57a3e459ced42bc29a0fba4707e056769aded578815a3d220",
+    "size_bytes": 54410,
+    "plugin_type": "aeplugin"
+  },
+  {
+    "id": "risograph",
+    "category": "plugin",
+    "name": "Risograph",
+    "version": "1.0",
+    "last_updated": "2026-11-15",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Risograph.core-1.0.zip",
+    "sha256": "2583c19a45941b9416e9c5b63dcace317ebc2f81a6836383185052f1220633d3",
+    "size_bytes": 1059162,
+    "plugin_type": "core"
+  },
+  {
+    "id": "shutter-drag",
+    "category": "plugin",
+    "name": "Shutter.Drag",
+    "version": "1.0.4",
+    "last_updated": "2026-11-15",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Shutter.Drag.core-1.0.4.zip",
+    "sha256": "a6fcffcec7802a54e96df348034c40f61796fd1aa2362f315a627e635c55b449",
+    "size_bytes": 13860654,
+    "plugin_type": "core"
+  },
+  {
+    "id": "smoothops",
+    "category": "plugin",
+    "name": "SmoothOps",
+    "version": "1.0",
+    "last_updated": "2026-11-15",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/SmoothOps.core-1.0.zip",
+    "sha256": "a40f4f88b5ffcd741a8b9d79f8f635ff9cbc2d8ee149e573a0635a666ebf277b",
+    "size_bytes": 764027,
+    "plugin_type": "core"
+  },
+  {
+    "id": "stemsplitter",
+    "category": "extension",
+    "name": "StemSplitter",
+    "version": "0.0.2",
+    "last_updated": "2026-11-15",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/StemSplitter.v0.0.2.zip",
+    "sha256": "ef311bf14ae2d95789710ad05628f0db46bbe6ff36a6900e9d25bc3ca8729225",
+    "size_bytes": 345259421
+  },
+  {
+    "id": "textyle-premiere",
+    "category": "extension",
+    "name": "Textyle.Premiere",
+    "version": "1.0.5",
+    "last_updated": "2026-11-15",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Textyle.Premiere.V1.0.5.zip",
+    "sha256": "bb37ff3057a09c05dae0b8378b4e8f34e958d05c23a2ed10dc40a447ff0f011a",
+    "size_bytes": 513032358
+  },
+  {
+    "id": "twitch",
+    "category": "plugin",
+    "name": "Twitch",
+    "version": "1.1",
+    "last_updated": "2026-11-15",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Twitch-1.1.zip",
+    "sha256": "cd86f4439a9f60f96b4edcc70df821c297e7f90b2567181295519962f84f5e83",
+    "size_bytes": 343307,
+    "plugin_type": "aeplugin"
+  },
+  {
+    "id": "voxmark",
+    "category": "extension",
+    "name": "VoxMark",
+    "version": "2.3.2",
+    "last_updated": "2026-11-15",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/VoxMark.v2.3.2.zip",
+    "sha256": "6c635e70be3bd24142cff0397247813881804193388b1f2032694adcbb355987",
+    "size_bytes": 1577655
+  },
+  {
+    "id": "mirai",
+    "category": "extension",
+    "name": "mirAI",
+    "version": "1.3.9",
+    "last_updated": "2026-11-15",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/mirAI.V1.3.9.zip",
+    "sha256": "85df7b5ddbc6e94bfe0ba2e5390b59d55a2990fc329a897c07d4c9e9503b2b09",
+    "size_bytes": 27011763
   }
 ]
