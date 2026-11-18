@@ -89,17 +89,6 @@
   },
   {
     "category": "plugin",
-    "name": "SpeedX",
-    "version": "2.2",
-    "last_updated": "2026-10-31",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/SpeedX1.2.2.zip",
-    "plugin_type": "aeplugin",
-    "description": "",
-    "sha256": "b3416fbe870aba9a83976bfaa578c0b54e55183bc044e5d64afca3eb1139d711",
-    "size_bytes": 76721391
-  },
-  {
-    "category": "plugin",
     "name": "Tracery",
     "version": "1",
     "last_updated": "2026-10-31",
@@ -629,14 +618,14 @@
     "plugin_type": "core"
   },
   {
-    "id": "photomosaic-core",
+    "id": "photomosaic",
     "category": "plugin",
     "name": "PhotoMosaic",
-    "version": "1.0",
-    "last_updated": "2026-10-30",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/PhotoMosaic.core-1.0.zip",
-    "sha256": "339b1127813bc3bff135277eeb38f3c6da8febe8459bf7081740f50d5bb0b0c4",
-    "size_bytes": 2405497,
+    "version": "1.2",
+    "last_updated": "2026-11-18",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/PhotoMosaic.core-1.2.zip",
+    "sha256": "45538e2051575e834087a4203f9ac05bb750d0be32730dee3aa8984d2a033de0",
+    "size_bytes": 2458715,
     "plugin_type": "core"
   },
   {
@@ -681,16 +670,6 @@
     "sha256": "75ba98a03f4a6f6d1e8f88ecd71da93a2875b76529c689f6904aea41af03af30",
     "size_bytes": 191143,
     "plugin_type": "core"
-  },
-  {
-    "id": "texto-v1-0-1",
-    "category": "extension",
-    "name": "Texto",
-    "version": "1.0.1",
-    "last_updated": "2026-11-03",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Texto.v1.0.1.zip",
-    "sha256": "70cb915262793587dc7218381d8dfb27f5fe84a391a266b061d2fba6d2e357de",
-    "size_bytes": 984000
   },
   {
     "id": "windrops-core",
@@ -1016,16 +995,6 @@
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/FlowPath-1.6.zip",
     "sha256": "64e936307d6b3f937971acfd9163fe7b26494fdf1686f088eee61b93e8cb7b09",
     "size_bytes": 667365
-  },
-  {
-    "id": "physic3d",
-    "category": "extension",
-    "name": "Physic3D",
-    "version": "1.1.12",
-    "last_updated": "2026-11-03",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Physic3D_1.1.12.zip",
-    "sha256": "0636b496214283590d875ce20a54b9a012ff1cbc028277e54d8e653706429f95",
-    "size_bytes": 3560270
   },
   {
     "id": "pseudo-effect-maker",
@@ -1612,17 +1581,6 @@
     "plugin_type": "aeplugin"
   },
   {
-    "id": "falloff",
-    "category": "plugin",
-    "name": "Falloff",
-    "version": "1.0",
-    "last_updated": "2026-11-12",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Falloff.core-1.0.zip",
-    "sha256": "27b80ace19483bdf14c16ee2db14742b64ead45377df6cea85e9447df0112611",
-    "size_bytes": 219511,
-    "plugin_type": "core"
-  },
-  {
     "id": "rxxr",
     "category": "plugin",
     "name": "RXXR",
@@ -2127,5 +2085,118 @@
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/mirAI.V1.3.9.zip",
     "sha256": "85df7b5ddbc6e94bfe0ba2e5390b59d55a2990fc329a897c07d4c9e9503b2b09",
     "size_bytes": 27011763
+  },
+  {
+    "id": "texto-v1-0-1",
+    "category": "extension",
+    "name": "Texto",
+    "version": "1.5.0",
+    "last_updated": "2026-11-18",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Texto_v1.5.0.zip",
+    "sha256": "8ca799adafce16e1070da9a59bf766deb691474136417376c4c74135cf3552c6",
+    "size_bytes": 6255794
+  },
+  {
+    "id": "physic3d",
+    "category": "extension",
+    "name": "Physic3D",
+    "version": "1.3.141",
+    "last_updated": "2026-11-18",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Physic3D_1.3.141.zip",
+    "sha256": "9054e57aee2622f78e09f0bf5cb04dd1bf3dadf34185b38d5ae7d60eb201e2a9",
+    "size_bytes": 3785374
+  },
+  {
+    "id": "falloff",
+    "category": "plugin",
+    "name": "Falloff",
+    "version": "1.1.0",
+    "last_updated": "2026-11-18",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Falloff.core-1.1.0.zip",
+    "sha256": "dc5cc11c88f5e3817eb9db7a4d3855a177b4a4367b64ca69ada0dfa5bf6d477f",
+    "size_bytes": 398151,
+    "plugin_type": "core"
+  },
+  {
+    "id": "ae-diff",
+    "category": "script",
+    "name": "AE Diff",
+    "version": "0.1.2",
+    "last_updated": "2026-11-18",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/AE_Diff-0.1.2.zip",
+    "sha256": "195539e8e6f606871c28dd78543c3b260a36542a54e1dffe8ccc803b8c7fc53b",
+    "size_bytes": 678572
+  },
+  {
+    "id": "chatty",
+    "category": "extension",
+    "name": "Chatty",
+    "version": "1.3.0",
+    "last_updated": "2026-11-18",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Chatty_v1.3.0.zip",
+    "sha256": "9e63023112de71658c3a00fe63570310f2587cc45de50c11f7bf6c4b9ddef972",
+    "size_bytes": 18505430
+  },
+  {
+    "id": "disintegration-pro",
+    "category": "plugin",
+    "name": "Disintegration.Pro",
+    "version": "1.7",
+    "last_updated": "2026-11-18",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Disintegration.Pro.core-1.7.zip",
+    "sha256": "92333be44a6d24d7caa671d6c59517d9610789d4949b38cd9d834b8f60cee14e",
+    "size_bytes": 953760,
+    "plugin_type": "core"
+  },
+  {
+    "id": "preflight",
+    "category": "extension",
+    "name": "PreFlight",
+    "version": "1.6",
+    "last_updated": "2026-11-18",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/PreFlight_V1.6.zip",
+    "sha256": "68c2c35ebc169cf55583d9bc0a545a36696f87a2d56bb6dd68e0d5557db3b811",
+    "size_bytes": 13639363
+  },
+  {
+    "id": "safest-zone",
+    "category": "extension",
+    "name": "Safest Zone",
+    "version": "1.0.6",
+    "last_updated": "2026-11-18",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Safest_Zone_V1.0.6.zip",
+    "sha256": "41901f627d7015e3299c95bce3c6411f809191879325f0421041a913dbec7602",
+    "size_bytes": 1199479
+  },
+  {
+    "id": "speedx",
+    "category": "plugin",
+    "name": "SpeedX",
+    "version": "1.3",
+    "last_updated": "2026-11-18",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/SpeedX-1.3.zip",
+    "sha256": "b36a5a19d645cbe2cbc37642ce8cc848ff21c348d2a0d12411705011f6da5c2c",
+    "size_bytes": 76882322,
+    "plugin_type": "aeplugin"
+  },
+  {
+    "id": "timeline-memory",
+    "category": "extension",
+    "name": "Timeline Memory",
+    "version": "1.0.0",
+    "last_updated": "2026-11-18",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Timeline_Memory_V1.0.0.zip",
+    "sha256": "9e396b87984c884cad0c6048c482f387252bb839e0122075bd0122951cf02e6d",
+    "size_bytes": 1274526
+  },
+  {
+    "id": "vocal-isolator",
+    "category": "extension",
+    "name": "Vocal Isolator",
+    "version": "1.3.0",
+    "last_updated": "2026-11-18",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Vocal_Isolator_v1.3.0.zip",
+    "sha256": "87501eecdc5ad25c2faec0fd464339d4565ea1e4bd22866d04838be85454f2bf",
+    "size_bytes": 987463
   }
 ]
