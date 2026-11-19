@@ -521,17 +521,6 @@
     "plugin_type": "core"
   },
   {
-    "id": "cosmic",
-    "category": "plugin",
-    "name": "Cosmic",
-    "version": "1.0.0",
-    "last_updated": "2026-11-01",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Cosmic.zip",
-    "sha256": "66d9998c2520e11eafe5e1632363d385fc26236b55eaa9eed7bb7becd9814b35",
-    "size_bytes": 356270,
-    "plugin_type": "aeplugin"
-  },
-  {
     "id": "gaussiansplatting-core",
     "category": "plugin",
     "name": "GaussianSplatting",
@@ -540,17 +529,6 @@
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/GaussianSplatting.core-1.7.1.zip",
     "sha256": "8bc7869062ea0b918b1e72ad49b796970d7998f6f49d49b1c41bad05d30bc2ca",
     "size_bytes": 2531051,
-    "plugin_type": "core"
-  },
-  {
-    "id": "lockdown-core",
-    "category": "plugin",
-    "name": "Lockdown",
-    "version": "4.1.0",
-    "last_updated": "2026-10-30",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Lockdown.core-4.1.0.zip",
-    "sha256": "9fa7b6fc7777f33cb49787a40846b8c1c859703787a59352bf2a562572f688d5",
-    "size_bytes": 77309551,
     "plugin_type": "core"
   },
   {
@@ -1018,16 +996,6 @@
     "plugin_type": "core"
   },
   {
-    "id": "vortex",
-    "category": "extension",
-    "name": "Vortex",
-    "version": "1.0.0",
-    "last_updated": "2026-11-03",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Vortex_v1.0.0.zip",
-    "sha256": "4ad2e250db944a4bf05679248f32db65017873e637b9f9a382401ef3b165a2f9",
-    "size_bytes": 1291649
-  },
-  {
     "id": "flowr-core",
     "category": "plugin",
     "name": "Flowr",
@@ -1228,16 +1196,6 @@
     "sha256": "ee2ea5e47da6eca57b56aef335b591b799fb4f7565cd88b1f4136f4c96b9e1b6",
     "size_bytes": 2446637,
     "plugin_type": "core"
-  },
-  {
-    "id": "sandbox",
-    "category": "extension",
-    "name": "Sandbox",
-    "version": "3.1.1",
-    "last_updated": "2026-11-06",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Sandbox_V3.1.1.zip",
-    "sha256": "3311e209d38b0839e72c6b09a1a0d5d5c5fe4955c0d7f179efd1e97c7ae44fa8",
-    "size_bytes": 138543422
   },
   {
     "id": "vocalsplitter",
@@ -1560,27 +1518,6 @@
     "plugin_type": "core"
   },
   {
-    "id": "stash",
-    "category": "script",
-    "name": "Stash",
-    "version": "1.2.1",
-    "last_updated": "2026-11-12",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Stash.V1.2.1.zip",
-    "sha256": "3f55ef7390d431c033e05a85f08c7daf5744fae71fbac13fc7f59c269b762958",
-    "size_bytes": 1081963
-  },
-  {
-    "id": "crucible",
-    "category": "plugin",
-    "name": "Crucible",
-    "version": "1.0.2",
-    "last_updated": "2026-11-12",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Crucible-v1.0.2.zip",
-    "sha256": "da5791a06997cfae0f21f6493bec951f83ff920e21a017797f6211698f8d5da9",
-    "size_bytes": 38269862,
-    "plugin_type": "aeplugin"
-  },
-  {
     "id": "rxxr",
     "category": "plugin",
     "name": "RXXR",
@@ -1595,10 +1532,10 @@
     "id": "reveal-in-stash",
     "category": "script",
     "name": "Reveal.in.Stash",
-    "version": "1.0",
-    "last_updated": "2026-11-12",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Reveal.in.Stash-1.0.zip",
-    "sha256": "bcf09ebccb544cc2f3c2402d9b218d04744fb70bdadd20b58b17fba664de1b18",
+    "version": "1.3.0",
+    "last_updated": "2026-11-19",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Reveal.in.Stash-1.3.0.zip",
+    "sha256": "ece46142fda83e0830ed25ee656c2889cb098f4f6bde26ba78d15c9af36158f4",
     "size_bytes": 909
   },
   {
@@ -1876,16 +1813,6 @@
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/AE-AI.script.zip",
     "sha256": "498a7bf6a0c4e9a9d4afe5da53e96f545b83f8fd7888ec65257fa1947ec2b024",
     "size_bytes": 1452804
-  },
-  {
-    "id": "ae-gpt",
-    "category": "extension",
-    "name": "AE.GPT",
-    "version": "1.4.0",
-    "last_updated": "2026-11-15",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/AE.GPT.V1.4.0.zip",
-    "sha256": "97b4dd479ba99bdf1f5e6127a4d7b357dd77ea3cf0dc91263e2a0028c4cdbfd7",
-    "size_bytes": 6577146
   },
   {
     "id": "aibow-manga-koma",
@@ -2198,5 +2125,183 @@
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Vocal_Isolator_v1.3.0.zip",
     "sha256": "87501eecdc5ad25c2faec0fd464339d4565ea1e4bd22866d04838be85454f2bf",
     "size_bytes": 987463
+  },
+  {
+    "id": "cosmic",
+    "category": "plugin",
+    "name": "Cosmic",
+    "version": "1.1.0",
+    "last_updated": "2026-11-19",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Cosmic.core-1.1.0.zip",
+    "sha256": "1f58b4d746ba7027bca31b4cf2088d2531f263b3ecb2ea65768a636d082d326d",
+    "size_bytes": 415211,
+    "plugin_type": "core"
+  },
+  {
+    "id": "lockdown-core",
+    "category": "plugin",
+    "name": "Lockdown",
+    "version": "4.2",
+    "last_updated": "2026-11-19",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Lockdown.core-4.2.zip",
+    "sha256": "681ae7e6a40616db7e0338ef9d92a049f660b23500c5497a0dbb23fd61a98183",
+    "size_bytes": 171800078,
+    "plugin_type": "core"
+  },
+  {
+    "id": "vortex",
+    "category": "extension",
+    "name": "Vortex",
+    "version": "1.1.0",
+    "last_updated": "2026-11-19",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Vortex_v1.1.0.zip",
+    "sha256": "12bfb664c7f4cb3e600be5a98b32dc406986b39dc2642a33f7462a736526f808",
+    "size_bytes": 1343186
+  },
+  {
+    "id": "sandbox",
+    "category": "extension",
+    "name": "Sandbox",
+    "version": "4.0.0",
+    "last_updated": "2026-11-19",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Sandbox_V4.0.0.zip",
+    "sha256": "6df4b71554acda1f62b485cc604e66f06e37e2fa9c6e717e8f98c999f3dbfe7c",
+    "size_bytes": 142951523
+  },
+  {
+    "id": "stash",
+    "category": "script",
+    "name": "Stash",
+    "version": "1.3.0",
+    "last_updated": "2026-11-19",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Stash_V1.3.0.zip",
+    "sha256": "436133762d973c971a26f7671c1ae07b2e2de7c63abefe7b1468abfad3ddeade",
+    "size_bytes": 1166058
+  },
+  {
+    "id": "crucible",
+    "category": "plugin",
+    "name": "Crucible",
+    "version": "103",
+    "last_updated": "2026-11-19",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Crucible.core-103.zip",
+    "sha256": "9b3918646966514949a6ee7c519e00fc0a7c37e18f1ed974c1292a747736dacf",
+    "size_bytes": 41238230,
+    "plugin_type": "core"
+  },
+  {
+    "id": "ae-gpt",
+    "category": "extension",
+    "name": "AE GPT",
+    "version": "1.4.1",
+    "last_updated": "2026-11-19",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/AE_GPT_V1.4.1.zip",
+    "sha256": "1d8d9404a1374b6f4d4180ce22936cddba5dcf2936ccbcf0f2015a04dea04574",
+    "size_bytes": 6561311
+  },
+  {
+    "id": "aibowgenkou",
+    "category": "plugin",
+    "name": "AiBowGenkou",
+    "version": "1.0.1",
+    "last_updated": "2026-11-19",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/AiBowGenkou.core-1.0.1.zip",
+    "sha256": "e72dcc1444774c5b3f5d9f7547c0e20baf9361f0941d2401903d07962453e32a",
+    "size_bytes": 159814,
+    "plugin_type": "core"
+  },
+  {
+    "id": "aibowmangatoner",
+    "category": "plugin",
+    "name": "AiBowMangaToner",
+    "version": "1.0.1",
+    "last_updated": "2026-11-19",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/AiBowMangaToner.core-1.0.1.zip",
+    "sha256": "12b68bcc0c0ca548c36fa9ea308705c71bfbd251710d3684c7768bf0d25bbe29",
+    "size_bytes": 224898,
+    "plugin_type": "core"
+  },
+  {
+    "id": "aquon",
+    "category": "plugin",
+    "name": "Aquon",
+    "version": "1.1",
+    "last_updated": "2026-11-19",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Aquon-1.1.zip",
+    "sha256": "a274900992b61695fbbdcd3943d8998617873efe82112be463f471362ce5ab4b",
+    "size_bytes": 180042,
+    "plugin_type": "aeplugin"
+  },
+  {
+    "id": "dependency-graph",
+    "category": "extension",
+    "name": "Dependency Graph",
+    "version": "1.1.0",
+    "last_updated": "2026-11-19",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Dependency_Graph_V1.1.0.zip",
+    "sha256": "c1fe9f5baa6eff4d8fc922ae380937452dfc676801fdc5df2e289ac40ee4e6b3",
+    "size_bytes": 1521221
+  },
+  {
+    "id": "group-therapy",
+    "category": "script",
+    "name": "Group.Therapy",
+    "version": "4.1",
+    "last_updated": "2026-11-19",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Group.Therapy-4.1.zip",
+    "sha256": "b39c7f1a1d06a53089e8bce419840dd724386cdefa6faf760f1d2585729d27cb",
+    "size_bytes": 516
+  },
+  {
+    "id": "group-therapy",
+    "category": "plugin",
+    "name": "Group.Therapy",
+    "version": "4.1",
+    "last_updated": "2026-11-19",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Group.Therapy.core-4.1.zip",
+    "sha256": "8d9d5d947268b6b8b9105584ab40892f24b385015aabcdaa43daec4b248f8ec9",
+    "size_bytes": 5279240,
+    "plugin_type": "core"
+  },
+  {
+    "id": "layer-thief",
+    "category": "script",
+    "name": "Layer.Thief",
+    "version": "1.0",
+    "last_updated": "2026-11-19",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Layer.Thief.core-1.0.zip",
+    "sha256": "1cd7404ced0f00698cdb8876181cca50735436126d9dafd86929be910d75dfe3",
+    "size_bytes": 770182
+  },
+  {
+    "id": "textgrad",
+    "category": "plugin",
+    "name": "TextGrad",
+    "version": "1.0",
+    "last_updated": "2026-11-19",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/TextGrad.core-1.0.zip",
+    "sha256": "be35defc7a5e3d04777db29d31b60281aa3a70fcbdcefede1cd1fe045d04b0cc",
+    "size_bytes": 1571324,
+    "plugin_type": "core"
+  },
+  {
+    "id": "variation-storm",
+    "category": "script",
+    "name": "Variation Storm",
+    "version": "1.5",
+    "last_updated": "2026-11-19",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Variation_Storm_v1.5.zip",
+    "sha256": "869879644ac5385e76ebcdf44a1cdf0cb6cfbc894b08fe7041a5bb8344496ee8",
+    "size_bytes": 665910
+  },
+  {
+    "id": "wpm-text-timer",
+    "category": "script",
+    "name": "WPM.Text.Timer",
+    "version": "1.0",
+    "last_updated": "2026-11-19",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/WPM.Text.Timer-1.0.zip",
+    "sha256": "ec71082e7836b40d5aacca1092023a5f937e9b5f9942ee27c146d7f73ec008dd",
+    "size_bytes": 680315
   }
 ]
