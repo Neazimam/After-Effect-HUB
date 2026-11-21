@@ -23,17 +23,6 @@
   },
   {
     "category": "plugin",
-    "name": "Irrealix Bundle including(Ray Projector,Volna,Reka Grid,Grid Builder,Pro Gradient)",
-    "version": "2026",
-    "last_updated": "2026-10-30",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/irrealix.zip",
-    "plugin_type": "core",
-    "description": "",
-    "sha256": "187e54fbb8f0bbcbeb748f113677eb60ccc25f962b90edf0eecd7316cad604e5",
-    "size_bytes": 22275192
-  },
-  {
-    "category": "plugin",
     "name": "Chromabba",
     "version": "1.4.3",
     "last_updated": "2026-10-30",
@@ -521,17 +510,6 @@
     "plugin_type": "core"
   },
   {
-    "id": "gaussiansplatting-core",
-    "category": "plugin",
-    "name": "GaussianSplatting",
-    "version": "1.7.1",
-    "last_updated": "2026-10-30",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/GaussianSplatting.core-1.7.1.zip",
-    "sha256": "8bc7869062ea0b918b1e72ad49b796970d7998f6f49d49b1c41bad05d30bc2ca",
-    "size_bytes": 2531051,
-    "plugin_type": "core"
-  },
-  {
     "id": "bao-bones",
     "category": "plugin",
     "name": "BAO Bones",
@@ -787,17 +765,6 @@
     "size_bytes": 107880091
   },
   {
-    "id": "dropletee",
-    "category": "plugin",
-    "name": "Dropletee",
-    "version": "1.0.15",
-    "last_updated": "2026-11-12",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Dropletee.core-1.0.15.zip",
-    "sha256": "48e99bd39ab65b8d678bca01d908677d3e966301f3b0f99313e2bf3cb7310364",
-    "size_bytes": 4980794,
-    "plugin_type": "core"
-  },
-  {
     "id": "bleed",
     "category": "extension",
     "name": "Bleed",
@@ -867,17 +834,6 @@
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/CenterLine.core-1.0.zip",
     "sha256": "adc6e77b492cf4e6d97ac038060f80df66598363f006bda89f45b556e182029c",
     "size_bytes": 238710,
-    "plugin_type": "core"
-  },
-  {
-    "id": "foldspace",
-    "category": "plugin",
-    "name": "Foldspace",
-    "version": "1.4.2",
-    "last_updated": "2026-11-01",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Foldspace.core-1.4.2.zip",
-    "sha256": "ebc8f82979e337da89e1317c3820e42148a52ce815dfe1541e17e1ae9f9aa033",
-    "size_bytes": 6377847,
     "plugin_type": "core"
   },
   {
@@ -1000,10 +956,10 @@
     "category": "plugin",
     "name": "Flowr",
     "version": "1.1",
-    "last_updated": "2026-11-03",
+    "last_updated": "2026-11-21",
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Flowr.core-1.1.zip",
-    "sha256": "a66256c19bc9e4db6ad05bf4f2cfbc48dc0687e9bf3cd15c7afc5ba72f489b48",
-    "size_bytes": 2426259,
+    "sha256": "e31a4ddbfbd7dac73755a196a6246ddc215a75ee499c5000a8994c101bc71058",
+    "size_bytes": 2426407,
     "plugin_type": "core"
   },
   {
@@ -1392,17 +1348,6 @@
     "size_bytes": 877667
   },
   {
-    "id": "zaebects",
-    "category": "plugin",
-    "name": "Zaebects Including Pixel Sorter",
-    "version": "2026",
-    "last_updated": "2026-11-09",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Zaebects.core-2026.zip",
-    "sha256": "93da3f9bfdfd88597356d01ce0719d49903b7f19efcc1bb8f266357b2f1fa45e",
-    "size_bytes": 3980390,
-    "plugin_type": "core"
-  },
-  {
     "category": "extension",
     "name": "MagicMorphing",
     "version": "1.2.0",
@@ -1453,17 +1398,6 @@
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/InstantRecipe.V1.0.1.zip",
     "sha256": "5af54ad8059ed5e8198376e86e1ba847bcf7f50392e1d6f271ed068392f09c91",
     "size_bytes": 2541952
-  },
-  {
-    "id": "meshmorph",
-    "category": "plugin",
-    "name": "MeshMorph",
-    "version": "1.4",
-    "last_updated": "2026-11-11",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/MeshMorph.core-1.4.zip",
-    "sha256": "82ca2a9f04f0b42e2f5b88c79c02758944cc44af7c349c283b0aad94c2a1e8aa",
-    "size_bytes": 268268,
-    "plugin_type": "core"
   },
   {
     "id": "mini-bread",
@@ -1558,17 +1492,6 @@
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Cyclops-4.0.1.zip",
     "sha256": "19e662af28a93a83cbe586dc6a2808b63ba582d58abce389adf0e2d21622fdd6",
     "size_bytes": 7973415
-  },
-  {
-    "id": "progradient",
-    "category": "plugin",
-    "name": "proGradient",
-    "version": "1.4.2",
-    "last_updated": "2026-11-12",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/proGradient.core-1.4.2.zip",
-    "sha256": "2199cb1fb7ad45b126128a2a4cb2c6b02e1fd41928b905a84bb8cd9b6aecf899",
-    "size_bytes": 4308087,
-    "plugin_type": "core"
   },
   {
     "id": "comp-resizer",
@@ -2024,16 +1947,6 @@
     "size_bytes": 6255794
   },
   {
-    "id": "physic3d",
-    "category": "extension",
-    "name": "Physic3D",
-    "version": "1.3.141",
-    "last_updated": "2026-11-18",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Physic3D_1.3.141.zip",
-    "sha256": "9054e57aee2622f78e09f0bf5cb04dd1bf3dadf34185b38d5ae7d60eb201e2a9",
-    "size_bytes": 3785374
-  },
-  {
     "id": "falloff",
     "category": "plugin",
     "name": "Falloff",
@@ -2117,16 +2030,6 @@
     "size_bytes": 1274526
   },
   {
-    "id": "vocal-isolator",
-    "category": "extension",
-    "name": "Vocal Isolator",
-    "version": "1.3.0",
-    "last_updated": "2026-11-18",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Vocal_Isolator_v1.3.0.zip",
-    "sha256": "87501eecdc5ad25c2faec0fd464339d4565ea1e4bd22866d04838be85454f2bf",
-    "size_bytes": 987463
-  },
-  {
     "id": "cosmic",
     "category": "plugin",
     "name": "Cosmic",
@@ -2147,16 +2050,6 @@
     "sha256": "681ae7e6a40616db7e0338ef9d92a049f660b23500c5497a0dbb23fd61a98183",
     "size_bytes": 171800078,
     "plugin_type": "core"
-  },
-  {
-    "id": "vortex",
-    "category": "extension",
-    "name": "Vortex",
-    "version": "1.1.0",
-    "last_updated": "2026-11-19",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Vortex_v1.1.0.zip",
-    "sha256": "12bfb664c7f4cb3e600be5a98b32dc406986b39dc2642a33f7462a736526f808",
-    "size_bytes": 1343186
   },
   {
     "id": "sandbox",
@@ -2303,5 +2196,402 @@
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/WPM.Text.Timer-1.0.zip",
     "sha256": "ec71082e7836b40d5aacca1092023a5f937e9b5f9942ee27c146d7f73ec008dd",
     "size_bytes": 680315
+  },
+  {
+    "id": "gaussiansplatting-core",
+    "category": "plugin",
+    "name": "GaussianSplatting",
+    "version": "1.0",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/GaussianSplatting.core-1.0.zip",
+    "sha256": "ea26461736a40624d073cf3543466f62eb994f1d719b3f3c4290699c9031284c",
+    "size_bytes": 2270916,
+    "plugin_type": "core"
+  },
+  {
+    "id": "dropletee",
+    "category": "plugin",
+    "name": "Dropletee",
+    "version": "1.1.1",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Dropletee.core-1.1.1.zip",
+    "sha256": "878be27ad42cbabbd9adb993d2489ba0f4145d663e6011f512320b2280b0e6a4",
+    "size_bytes": 4994370,
+    "plugin_type": "core"
+  },
+  {
+    "id": "foldspace",
+    "category": "plugin",
+    "name": "Foldspace",
+    "version": "2.0",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Foldspace.core-2.0.zip",
+    "sha256": "669abc6f272782ab0a113905522532f1318fb70fce5a640f62dc5e8caa09e4f3",
+    "size_bytes": 6532480,
+    "plugin_type": "core"
+  },
+  {
+    "id": "meshmorph",
+    "category": "plugin",
+    "name": "MeshMorph",
+    "version": "1.5.0",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/MeshMorph.core-1.5.0.zip",
+    "sha256": "b8554b2f1db76b2197776b4a3d528c705fcdfb54c679c2dcc5a4bd5e34cb5f34",
+    "size_bytes": 281786,
+    "plugin_type": "core"
+  },
+  {
+    "id": "progradient",
+    "category": "plugin",
+    "name": "ProGradient",
+    "version": "1.4.2",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/ProGradient.core-1.4.2.zip",
+    "sha256": "a9baddcc4dfdd8d7736138f691d3664cc7dde009d26308942ff426b4a564b831",
+    "size_bytes": 4308235,
+    "plugin_type": "core"
+  },
+  {
+    "id": "vocal-isolator",
+    "category": "extension",
+    "name": "Vocal Isolator",
+    "version": "1.3.1",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Vocal_Isolator_v1.3.1.zip",
+    "sha256": "7ad725e6cb18b5825402f324b49fad70512d0f6947814d6bcc42cc06164cab9e",
+    "size_bytes": 993190
+  },
+  {
+    "id": "vortex",
+    "category": "extension",
+    "name": "Vortex",
+    "version": "1.1.1",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Vortex-1.1.1.zip",
+    "sha256": "f7d81ee05b60a216f29ab819de8be2e6d06f7351abba871cf3dc282f05321000",
+    "size_bytes": 1346097
+  },
+  {
+    "id": "bentocontrol",
+    "category": "extension",
+    "name": "BentoControl",
+    "version": "1.0.0",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/BentoControl-1.0.0.zip",
+    "sha256": "62fd7c8cfe9f9e624da8a89fb5366f83ab9c573561eb28202c2571144969c3ef",
+    "size_bytes": 1487089
+  },
+  {
+    "id": "bindu",
+    "category": "extension",
+    "name": "Bindu",
+    "version": "1.0.0",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Bindu.v1.0.0.zip",
+    "sha256": "4e3fbb8dcb1753dc8fc9df743cd52b3b689b6748ff8925c43669db375ec93567",
+    "size_bytes": 1261389
+  },
+  {
+    "id": "candysomnia",
+    "category": "plugin",
+    "name": "Candysomnia",
+    "version": "1.0",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Candysomnia.core-1.0.zip",
+    "sha256": "a4c1507461565087048583435c87e1b78b0abda9550c0e2a629a181756c7de47",
+    "size_bytes": 5470798,
+    "plugin_type": "core"
+  },
+  {
+    "id": "composure",
+    "category": "extension",
+    "name": "Composure",
+    "version": "1.0",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Composure-1.0.zip",
+    "sha256": "3e92a32ec1f2b6ec11b835925bd56bd1fe71138ead2b2c0067b212cf441d2d11",
+    "size_bytes": 3066952
+  },
+  {
+    "id": "control-group",
+    "category": "extension",
+    "name": "Control.Group",
+    "version": "1.8.6",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Control.Group-1.8.6.zip",
+    "sha256": "1ea87e9033fa616168b104dc327a3883ceadb18f1be56b6972858b20bdac1e02",
+    "size_bytes": 12975311
+  },
+  {
+    "id": "control-group-plugin",
+    "category": "plugin",
+    "name": "Control.Group.Plugin",
+    "version": "1.8.6",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Control.Group.Plugin-1.8.6.zip",
+    "sha256": "9708ef0e14e92fc579b0ec1a3dd4a7191f165950e335c94235d1d439f0fe1ed7",
+    "size_bytes": 38292279,
+    "plugin_type": "aeplugin"
+  },
+  {
+    "id": "culprit",
+    "category": "script",
+    "name": "Culprit",
+    "version": "1.0",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Culprit-1.0.zip",
+    "sha256": "72a5d81917d5e34a4df34f9d226e0e2b01c8daeb89fac5e9ae52e36b14e7673f",
+    "size_bytes": 668685
+  },
+  {
+    "id": "dusttransition",
+    "category": "plugin",
+    "name": "DustTransition",
+    "version": "1.0",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/DustTransition.core-1.0.zip",
+    "sha256": "28cc654567d56e36f0005cd34924aa26a322966724202f65d34d58576061b983",
+    "size_bytes": 1540480,
+    "plugin_type": "core"
+  },
+  {
+    "id": "fryer",
+    "category": "plugin",
+    "name": "Fryer",
+    "version": "1.0",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Fryer.core-1.0.zip",
+    "sha256": "93579b5ab3ea2705d3dd147478c5711a90b352b7bdd84790aeb7e7026ea047db",
+    "size_bytes": 2131649,
+    "plugin_type": "core"
+  },
+  {
+    "id": "grainforge",
+    "category": "plugin",
+    "name": "GrainForge",
+    "version": "1.0",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/GrainForge.core-1.0.zip",
+    "sha256": "2097eae515f6a42523ca23f4f9c166515d3f7b8015cd8ea2814cd9617495dd94",
+    "size_bytes": 497085,
+    "plugin_type": "core"
+  },
+  {
+    "id": "jpeg-glitch",
+    "category": "plugin",
+    "name": "JPEG glitch",
+    "version": "1.0",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/JPEG_glitch.core-1.0.zip",
+    "sha256": "c0f8b83437737f668452002a5e6540109d265dd978a495b83f47339d3d89c422",
+    "size_bytes": 401828,
+    "plugin_type": "core"
+  },
+  {
+    "id": "loopflow",
+    "category": "plugin",
+    "name": "LoopFlow",
+    "version": "1.0",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/LoopFlow.core-1.0.zip",
+    "sha256": "07bd9c0e3434acca3858708650c34838000a9d85d1e6d816eb9e87df7f845130",
+    "size_bytes": 840540,
+    "plugin_type": "core"
+  },
+  {
+    "id": "meander",
+    "category": "plugin",
+    "name": "Meander",
+    "version": "1.0.0",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Meander.core-1.0.0.zip",
+    "sha256": "e67a171e4754051bd502d7a63a1260a791566e86703f9b1abde1a4cf2fc5c6e7",
+    "size_bytes": 3374546,
+    "plugin_type": "core"
+  },
+  {
+    "id": "modulation",
+    "category": "plugin",
+    "name": "Modulation",
+    "version": "2.0",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Modulation.core-2.0.zip",
+    "sha256": "b649c7a01a59b332d580f13a24258e4afab1ec36b66062e8911cd88f4bf16b2a",
+    "size_bytes": 312199,
+    "plugin_type": "core"
+  },
+  {
+    "id": "mosaicart",
+    "category": "plugin",
+    "name": "MosaicArt",
+    "version": "1.0",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/MosaicArt.core-1.0.zip",
+    "sha256": "0d2bcfdeffa221b71ef69e872863a06c1fec463a8b078845abbe7393aea930d6",
+    "size_bytes": 1016985,
+    "plugin_type": "core"
+  },
+  {
+    "id": "oscilloscope",
+    "category": "plugin",
+    "name": "Oscilloscope",
+    "version": "1.0",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Oscilloscope.core-1.0.zip",
+    "sha256": "35e7a412607f4d378da7b515e5e5a485badf1c6543242f06b373f371322faf20",
+    "size_bytes": 310012,
+    "plugin_type": "core"
+  },
+  {
+    "id": "physarum",
+    "category": "plugin",
+    "name": "Physarum",
+    "version": "1.0",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Physarum.core-1.0.zip",
+    "sha256": "7c83e1b8507e2f4ae687f3ad130efa0f898dd10a6665b00af364d6668097fbc0",
+    "size_bytes": 318245,
+    "plugin_type": "core"
+  },
+  {
+    "id": "physics3d",
+    "category": "extension",
+    "name": "Physics3D",
+    "version": "1.3.155",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Physics3D-1.3.155.zip",
+    "sha256": "dbb84f3e5660562b78bdff45a8717728d80a52a352b11818e3887ec74b8e35f1",
+    "size_bytes": 3805869
+  },
+  {
+    "id": "plyimporter",
+    "category": "plugin",
+    "name": "PlyImporter",
+    "version": "1.0",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/PlyImporter.core-1.0.zip",
+    "sha256": "1fc2bb128bae12d319129b5e81eeeda4e6fa4bed4feddfd785b0cd30725378f1",
+    "size_bytes": 260451,
+    "plugin_type": "core"
+  },
+  {
+    "id": "potok",
+    "category": "plugin",
+    "name": "Potok",
+    "version": "1.0",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Potok.core-1.0.zip",
+    "sha256": "b46a948f9c215b7453abbd07ef4f724e13631437e3d805448a6143b9d16fea60",
+    "size_bytes": 836840,
+    "plugin_type": "core"
+  },
+  {
+    "id": "projection-3d",
+    "category": "extension",
+    "name": "Projection.3D",
+    "version": "5.1.0",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Projection.3D.V5.1.0.zip",
+    "sha256": "47e4a2c8cbf37096ac83c04587ac42aed1f65660cc3c93dc085500d2fcec2511",
+    "size_bytes": 1789233
+  },
+  {
+    "id": "rayprojector",
+    "category": "plugin",
+    "name": "RayProjector",
+    "version": "1.0",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/RayProjector.core-1.0.zip",
+    "sha256": "cb140d1534a54af5134b04c3aac8894e2d0b2a7f3e0954c64dffa10c84873948",
+    "size_bytes": 4837182,
+    "plugin_type": "core"
+  },
+  {
+    "id": "reallenses",
+    "category": "plugin",
+    "name": "RealLenses",
+    "version": "1.0",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/RealLenses.core-1.0.zip",
+    "sha256": "786edfb80da431f18d0e7e5c68150221f3f955ee5537ef621fba2b0d98ea9a1d",
+    "size_bytes": 4181720,
+    "plugin_type": "core"
+  },
+  {
+    "id": "rekagrid",
+    "category": "plugin",
+    "name": "RekaGrid",
+    "version": "1.0",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/RekaGrid.core-1.0.zip",
+    "sha256": "14d01bcda045f2a7714b475b21eba170c6b1ed3428bb7e86b181d5286b200c1c",
+    "size_bytes": 1240108,
+    "plugin_type": "core"
+  },
+  {
+    "id": "slitscan",
+    "category": "plugin",
+    "name": "Slitscan",
+    "version": "1.0",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Slitscan.core-1.0.zip",
+    "sha256": "9961c5bbaec568f6251224151d022c1ac373795f7db0b9e48e3920f98443640e",
+    "size_bytes": 8197,
+    "plugin_type": "core"
+  },
+  {
+    "id": "vectory",
+    "category": "plugin",
+    "name": "Vectory",
+    "version": "1.0",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Vectory.core-1.0.zip",
+    "sha256": "3e67bd97506348bf907c87f62d38682661b7547b3c609c378141058f84f6e51d",
+    "size_bytes": 176985,
+    "plugin_type": "core"
+  },
+  {
+    "id": "volna",
+    "category": "plugin",
+    "name": "Volna",
+    "version": "2.3",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Volna.core-2.3.zip",
+    "sha256": "f4465cb746448c1ee9cd3e0e5075c0f2570aa8d439a7eeb502b353dc35d46053",
+    "size_bytes": 889180,
+    "plugin_type": "core"
+  },
+  {
+    "id": "expresscode",
+    "category": "extension",
+    "name": "expressCode",
+    "version": "1.3.0",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/expressCode_1.3.0.zip",
+    "sha256": "2f1df0432496611495e55af942ab387ff414aac04ca68bc9af0645f6e4448695",
+    "size_bytes": 14466117
+  },
+  {
+    "id": "freegradient",
+    "category": "plugin",
+    "name": "freeGradient",
+    "version": "1.0",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/freeGradient.core-1.0.zip",
+    "sha256": "97bd21cedec48c19f709d09b45735385a8aadee3e5110ca5153a12b43223c344",
+    "size_bytes": 816641,
+    "plugin_type": "core"
+  },
+  {
+    "id": "xcloner",
+    "category": "plugin",
+    "name": "xCloner",
+    "version": "1.4.2",
+    "last_updated": "2026-11-21",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/xCloner-1.4.2.zip",
+    "sha256": "1dc220e7beb08225c40326f0c74f5b6d72fea97a4ff92d1e5824ff50d8995842",
+    "size_bytes": 212385,
+    "plugin_type": "aeplugin"
   }
 ]
