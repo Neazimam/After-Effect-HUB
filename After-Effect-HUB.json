@@ -805,16 +805,6 @@
     "size_bytes": 2236762
   },
   {
-    "id": "atlas",
-    "category": "extension",
-    "name": "Atlas",
-    "version": "1.0.1",
-    "last_updated": "2026-11-01",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Atlas.v1.0.1.zip",
-    "sha256": "7d65f4402189f4c69066bb0e6125756b1e35dd448c1d5de8a92c89279b7504d5",
-    "size_bytes": 46979952
-  },
-  {
     "id": "atlasparticles",
     "category": "plugin",
     "name": "AtlasParticles",
@@ -1741,11 +1731,11 @@
     "id": "aibow-manga-koma",
     "category": "script",
     "name": "AiBow.Manga.Koma",
-    "version": "1.0.0",
-    "last_updated": "2026-11-15",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/AiBow.Manga.Koma.zip",
-    "sha256": "8d358ec54860280507fa9e26af870fac8b2f7428edfe093bf499e8b0526c4d3b",
-    "size_bytes": 682477
+    "version": "1.0.1",
+    "last_updated": "2026-11-23",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/AiBow.Manga.Koma-1.0.1.zip",
+    "sha256": "9747f39ab351121d141201373632668d9dc2fc7bc045ce7512c26e0a6fecec96",
+    "size_bytes": 682722
   },
   {
     "id": "color-shift",
@@ -2593,5 +2583,67 @@
     "sha256": "1dc220e7beb08225c40326f0c74f5b6d72fea97a4ff92d1e5824ff50d8995842",
     "size_bytes": 212385,
     "plugin_type": "aeplugin"
+  },
+  {
+    "id": "atlas",
+    "category": "extension",
+    "name": "Atlas",
+    "version": "1.2.1",
+    "last_updated": "2026-11-23",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Atlas_v1.2.1.zip",
+    "sha256": "943f68d5789db2f6c46f3e14e103743e9a7e6b9e1bc6556116d7ac0a48461625",
+    "size_bytes": 50457582
+  },
+  {
+    "id": "atlasparticle",
+    "category": "plugin",
+    "name": "AtlasParticle",
+    "version": "1.2.1",
+    "last_updated": "2026-11-23",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/AtlasParticle-1.2.1.zip",
+    "sha256": "a4a75fcad49f69224118cbd035424424c2431fed66a8450a337759622231c057",
+    "size_bytes": 462390,
+    "plugin_type": "aeplugin"
+  },
+  {
+    "id": "light-flares",
+    "category": "script",
+    "name": "Light.Flares",
+    "version": "1.0.0",
+    "last_updated": "2026-11-23",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Light.Flares.zip",
+    "sha256": "04fc206ee4efc5d4fbed8b91fe2a11a9de0fec512a20e09436ed514967d18ff6",
+    "size_bytes": 4185015
+  },
+  {
+    "id": "motionbutter",
+    "category": "extension",
+    "name": "MotionButter",
+    "version": "1.0.0",
+    "last_updated": "2026-11-23",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/MotionButter.zip",
+    "sha256": "83d9a953a178843764c2e033fd91616b26375442d11f5928ecbaa03a661103dd",
+    "size_bytes": 3319885
+  },
+  {
+    "id": "smart-text-split-merge",
+    "category": "script",
+    "name": "Smart.Text.Split.Merge",
+    "version": "1.0.0",
+    "last_updated": "2026-11-23",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Smart.Text.Split.Merge.zip",
+    "sha256": "cddf93a119a5678b673ecc98154b25b34f6e8b1711c20c2bd01c343d1d8a7ce2",
+    "size_bytes": 705038
+  },
+  {
+    "id": "vko-ae",
+    "category": "plugin",
+    "name": "VKO AE",
+    "version": "1.3.2",
+    "last_updated": "2026-11-23",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/VKO_AE.core-1.3.2.zip",
+    "sha256": "75d3d02146bd50bc5a9be0831055a2fed05fdc1013e0c3bc4d369f328f9b5c28",
+    "size_bytes": 3137518,
+    "plugin_type": "core"
   }
 ]
