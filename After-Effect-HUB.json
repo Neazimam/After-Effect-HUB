@@ -489,16 +489,6 @@
     "plugin_type": "aeplugin"
   },
   {
-    "id": "com-aescripts-motiontoolspro-cep",
-    "category": "extension",
-    "name": "Motion Tool Pro",
-    "version": "2.1.0",
-    "last_updated": "2026-10-30",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/com.aescripts.motiontoolspro.cep.zip",
-    "sha256": "5dcb842e644ff6eae4ded1903b779a36bea2186098c21fa49782f41d2e03f4bf",
-    "size_bytes": 11477003
-  },
-  {
     "id": "ballpoint-core",
     "category": "plugin",
     "name": "Ballpoint",
@@ -2645,5 +2635,15 @@
     "sha256": "75d3d02146bd50bc5a9be0831055a2fed05fdc1013e0c3bc4d369f328f9b5c28",
     "size_bytes": 3137518,
     "plugin_type": "core"
+  },
+  {
+    "id": "motion-tools-pro",
+    "category": "extension",
+    "name": "motion tools pro",
+    "version": "2.1.2",
+    "last_updated": "2026-11-24",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/motion_tools_pro_v2.1.2.zip",
+    "sha256": "528fd937862970f515cb1f1da48fe5872adac5a18e3072c926d40a59a5321a5f",
+    "size_bytes": 11590125
   }
 ]
