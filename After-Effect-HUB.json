@@ -2698,5 +2698,16 @@
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Math.Plotter.V1.0.0.zip",
     "sha256": "a685d326763f2ba49eff48b4d5f1cd8dab4bb19fcf2c0beeb418c53c736b3a63",
     "size_bytes": 1315268
+  },
+  {
+    "id": "superluminal",
+    "category": "plugin",
+    "name": "Superluminal",
+    "version": "1.7.2.1",
+    "last_updated": "2026-11-26",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Superluminal.core-1.7.2.1.zip",
+    "sha256": "e36566b8dcec7e3ced76946c04cd9a93398b5fd9268fb9aa369b9126888e34cf",
+    "size_bytes": 16955068,
+    "plugin_type": "core"
   }
 ]
