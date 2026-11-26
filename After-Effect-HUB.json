@@ -169,16 +169,6 @@
   },
   {
     "category": "extension",
-    "name": "3D.Wizard",
-    "version": "2.5.2",
-    "last_updated": "2026-11-03",
-    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/3D.Wizard.2.5.2.zip",
-    "description": "",
-    "sha256": "2f3e0b0a6e0821472a498386c74eb2292cc079ca7974bb63798cae41b93ca323",
-    "size_bytes": 48177200
-  },
-  {
-    "category": "extension",
     "name": "Aescripts.Karton",
     "version": "2.0.3",
     "last_updated": "2026-11-03",
@@ -2645,5 +2635,68 @@
     "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/motion_tools_pro_v2.1.2.zip",
     "sha256": "528fd937862970f515cb1f1da48fe5872adac5a18e3072c926d40a59a5321a5f",
     "size_bytes": 11590125
+  },
+  {
+    "category": "extension",
+    "name": "3D.Wizard",
+    "version": "3.0.1",
+    "last_updated": "2026-11-26",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/3D.Wizard.3.0.1.zip",
+    "description": "",
+    "sha256": "f46d3eef13217cc20877eebc74908beb29d0d547ab7b23511ca88dec58a8b239",
+    "size_bytes": 5504841
+  },
+  {
+    "id": "balloon",
+    "category": "plugin",
+    "name": "Balloon",
+    "version": "1.0",
+    "last_updated": "2026-11-26",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Balloon.core-1.0.zip",
+    "sha256": "465a0f8340e35386039d18942f5ce1f6d07dbe5377593f15e445a05075e30896",
+    "size_bytes": 3389193,
+    "plugin_type": "core"
+  },
+  {
+    "id": "botanica",
+    "category": "extension",
+    "name": "Botanica",
+    "version": "1.0.0",
+    "last_updated": "2026-11-26",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Botanica.zip",
+    "sha256": "886795a143706364595fb966cd6a68079b1edd91de0101387401a9cbc3efd426",
+    "size_bytes": 47496
+  },
+  {
+    "id": "bubblecraft",
+    "category": "plugin",
+    "name": "BubbleCraft",
+    "version": "1.0",
+    "last_updated": "2026-11-26",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/BubbleCraft.core-1.0.zip",
+    "sha256": "450d983ffd0b47eeca588b094bc23f5d26724a6a11bb583f9248ef9bb8f5eb12",
+    "size_bytes": 3434622,
+    "plugin_type": "core"
+  },
+  {
+    "id": "deflickpattern",
+    "category": "plugin",
+    "name": "DeFlickPattern",
+    "version": "1.0",
+    "last_updated": "2026-11-26",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/DeFlickPattern.core-1.0.zip",
+    "sha256": "5e4786f6556ce17cc36d6b33a6e0330c3fc08540dde81e9fa4fc48b032f5f207",
+    "size_bytes": 3327647,
+    "plugin_type": "core"
+  },
+  {
+    "id": "math-plotter",
+    "category": "extension",
+    "name": "Math.Plotter",
+    "version": "1.0.0",
+    "last_updated": "2026-11-26",
+    "link": "https://github.com/Neazimam/AdobePlugins/releases/download/Plugins/Math.Plotter.V1.0.0.zip",
+    "sha256": "a685d326763f2ba49eff48b4d5f1cd8dab4bb19fcf2c0beeb418c53c736b3a63",
+    "size_bytes": 1315268
   }
 ]
